@@ -5,6 +5,7 @@
   },
   "questions": [
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59,6 +60,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -113,6 +115,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -167,6 +170,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -221,6 +225,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -275,6 +280,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -329,6 +335,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -383,6 +390,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -437,6 +445,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -491,6 +500,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -545,6 +555,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -599,6 +610,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -653,6 +665,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -707,6 +720,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -761,6 +775,7 @@
       "bloom_level": "REMEMBER"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -815,6 +830,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -873,6 +889,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -927,6 +944,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -981,6 +999,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1035,6 +1054,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1089,6 +1109,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1143,6 +1164,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1197,6 +1219,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1251,6 +1274,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1305,6 +1329,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1359,6 +1384,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -1413,6 +1439,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1467,6 +1494,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1521,6 +1549,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -1575,6 +1604,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1629,6 +1659,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1683,6 +1714,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -1737,6 +1769,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1791,6 +1824,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1845,6 +1879,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -1899,6 +1934,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -1953,6 +1989,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2007,6 +2044,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -2061,6 +2099,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2115,6 +2154,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2169,6 +2209,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -2223,6 +2264,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -2277,6 +2319,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2331,6 +2374,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2385,6 +2429,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2443,6 +2488,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2497,6 +2543,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2551,6 +2598,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -2605,6 +2653,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2659,6 +2708,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2713,6 +2763,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2767,6 +2818,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -2821,6 +2873,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -2875,6 +2928,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2929,6 +2983,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -2983,6 +3038,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3037,6 +3093,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3091,6 +3148,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3145,6 +3203,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3199,6 +3258,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3253,6 +3313,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3307,6 +3368,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3361,6 +3423,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3415,6 +3478,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3469,6 +3533,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3523,6 +3588,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3577,6 +3643,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3631,6 +3698,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3685,6 +3753,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3739,6 +3808,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -3797,6 +3867,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3851,6 +3922,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -3905,6 +3977,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -3959,6 +4032,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -4013,6 +4087,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4067,6 +4142,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4121,6 +4197,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -4175,6 +4252,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4229,6 +4307,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4283,6 +4362,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4337,6 +4417,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4391,6 +4472,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4445,6 +4527,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -4499,6 +4582,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4553,6 +4637,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4611,6 +4696,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -4665,6 +4751,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4719,6 +4806,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -4773,6 +4861,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4827,6 +4916,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -4881,6 +4971,7 @@
       "bloom_level": "UNDERSTAND"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4935,6 +5026,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -4989,6 +5081,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -5043,6 +5136,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5097,6 +5191,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5151,6 +5246,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5205,6 +5301,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5259,6 +5356,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -5313,6 +5411,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5367,6 +5466,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5421,6 +5521,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5475,6 +5576,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5529,6 +5631,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5583,6 +5686,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5637,6 +5741,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5691,6 +5796,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5745,6 +5851,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5799,6 +5906,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5853,6 +5961,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -5907,6 +6016,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -5961,6 +6071,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6015,6 +6126,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6069,6 +6181,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -6123,6 +6236,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6177,6 +6291,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6231,6 +6346,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -6285,6 +6401,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6339,6 +6456,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -6393,6 +6511,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6447,6 +6566,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6501,6 +6621,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6555,6 +6676,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6609,6 +6731,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6663,6 +6786,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -6717,6 +6841,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6771,6 +6896,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6825,6 +6951,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6879,6 +7006,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -6933,6 +7061,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -6987,6 +7116,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7045,6 +7175,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7099,6 +7230,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7153,6 +7285,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7207,6 +7340,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7261,6 +7395,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7315,6 +7450,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7369,6 +7505,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7427,6 +7564,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7481,6 +7619,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7539,6 +7678,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -7593,6 +7733,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7647,6 +7788,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7701,6 +7843,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7755,6 +7898,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7809,6 +7953,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7863,6 +8008,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7917,6 +8063,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -7971,6 +8118,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8025,6 +8173,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8079,6 +8228,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8133,6 +8283,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8187,6 +8338,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8241,6 +8393,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8299,6 +8452,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8353,6 +8507,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8407,6 +8562,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8461,6 +8617,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8515,6 +8672,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8569,6 +8727,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8623,6 +8782,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8677,6 +8837,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8731,6 +8892,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8785,6 +8947,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8839,6 +9002,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -8893,6 +9057,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -8947,6 +9112,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9001,6 +9167,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9055,6 +9222,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -9109,6 +9277,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9163,6 +9332,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -9217,6 +9387,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -9271,6 +9442,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9325,6 +9497,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9379,6 +9552,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9433,6 +9607,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -9487,6 +9662,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9541,6 +9717,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9595,6 +9772,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9649,6 +9827,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -9703,6 +9882,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9757,6 +9937,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9811,6 +9992,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9865,6 +10047,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9923,6 +10106,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -9977,6 +10161,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10031,6 +10216,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10085,6 +10271,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10139,6 +10326,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10193,6 +10381,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10247,6 +10436,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10301,6 +10491,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10355,6 +10546,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10409,6 +10601,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10463,6 +10656,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10517,6 +10711,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10571,6 +10766,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10625,6 +10821,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -10679,6 +10876,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10733,6 +10931,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10787,6 +10986,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10841,6 +11041,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10895,6 +11096,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -10949,6 +11151,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11003,6 +11206,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11057,6 +11261,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11111,6 +11316,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11165,6 +11371,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11219,6 +11426,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -11273,6 +11481,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11327,6 +11536,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11381,6 +11591,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11435,6 +11646,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11489,6 +11701,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11543,6 +11756,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11597,6 +11811,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11651,6 +11866,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11705,6 +11921,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11759,6 +11976,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11813,6 +12031,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11867,6 +12086,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11921,6 +12141,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -11975,6 +12196,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12029,6 +12251,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12083,6 +12306,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12137,6 +12361,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12191,6 +12416,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12245,6 +12471,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12299,6 +12526,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12353,6 +12581,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12407,6 +12636,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12461,6 +12691,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12515,6 +12746,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12569,6 +12801,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12623,6 +12856,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12677,6 +12911,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12731,6 +12966,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -12785,6 +13021,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12839,6 +13076,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12897,6 +13135,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -12951,6 +13190,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13005,6 +13245,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13059,6 +13300,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13113,6 +13355,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13167,6 +13410,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13221,6 +13465,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13279,6 +13524,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13333,6 +13579,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13387,6 +13634,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13441,6 +13689,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13495,6 +13744,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13549,6 +13799,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13603,6 +13854,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13657,6 +13909,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13711,6 +13964,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13765,6 +14019,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13819,6 +14074,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13873,6 +14129,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -13927,6 +14184,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -13981,6 +14239,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -14035,6 +14294,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14089,6 +14349,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -14143,6 +14404,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14197,6 +14459,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14255,6 +14518,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14309,6 +14573,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14363,6 +14628,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14417,6 +14683,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14471,6 +14738,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14525,6 +14793,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14579,6 +14848,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14633,6 +14903,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14687,6 +14958,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14741,6 +15013,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14799,6 +15072,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14853,6 +15127,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -14907,6 +15182,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -14961,6 +15237,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -15015,6 +15292,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15069,6 +15347,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -15123,6 +15402,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -15177,6 +15457,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15231,6 +15512,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15285,6 +15567,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15339,6 +15622,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15393,6 +15677,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -15447,6 +15732,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15501,6 +15787,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15555,6 +15842,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15609,6 +15897,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15663,6 +15952,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15717,6 +16007,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15771,6 +16062,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15825,6 +16117,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15879,6 +16172,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15937,6 +16231,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -15991,6 +16286,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16045,6 +16341,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16099,6 +16396,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16153,6 +16451,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16207,6 +16506,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16261,6 +16561,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16315,6 +16616,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16369,6 +16671,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16427,6 +16730,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16481,6 +16785,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16539,6 +16844,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -16593,6 +16899,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16647,6 +16954,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16701,6 +17009,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16755,6 +17064,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16809,6 +17119,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -16863,6 +17174,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -16917,6 +17229,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -16971,6 +17284,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17025,6 +17339,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -17079,6 +17394,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17133,6 +17449,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17187,6 +17504,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17241,6 +17559,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17295,6 +17614,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17349,6 +17669,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17403,6 +17724,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17457,6 +17779,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17511,6 +17834,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17565,6 +17889,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -17619,6 +17944,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17673,6 +17999,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17727,6 +18054,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17781,6 +18109,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -17835,6 +18164,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17889,6 +18219,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -17947,6 +18278,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18001,6 +18333,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -18055,6 +18388,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18109,6 +18443,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18163,6 +18498,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18217,6 +18553,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18271,6 +18608,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18325,6 +18663,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18383,6 +18722,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -18437,6 +18777,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18491,6 +18832,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18549,6 +18891,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -18603,6 +18946,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18657,6 +19001,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18711,6 +19056,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18765,6 +19111,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -18819,6 +19166,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18873,6 +19221,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18927,6 +19276,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -18981,6 +19331,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19035,6 +19386,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19089,6 +19441,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19143,6 +19496,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19197,6 +19551,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19251,6 +19606,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19305,6 +19661,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19359,6 +19716,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19413,6 +19771,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19467,6 +19826,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19521,6 +19881,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19575,6 +19936,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19629,6 +19991,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19683,6 +20046,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19737,6 +20101,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19791,6 +20156,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19845,6 +20211,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -19899,6 +20266,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -19953,6 +20321,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20007,6 +20376,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20061,6 +20431,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20119,6 +20490,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20173,6 +20545,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20227,6 +20600,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20281,6 +20655,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20335,6 +20710,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -20389,6 +20765,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -20443,6 +20820,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20497,6 +20875,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20551,6 +20930,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -20605,6 +20985,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20659,6 +21040,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20713,6 +21095,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20767,6 +21150,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20821,6 +21205,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20875,6 +21260,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -20929,6 +21315,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -20983,6 +21370,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -21037,6 +21425,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21091,6 +21480,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21145,6 +21535,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -21199,6 +21590,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -21253,6 +21645,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21307,6 +21700,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21361,6 +21755,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -21415,6 +21810,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21469,6 +21865,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21523,6 +21920,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21577,6 +21975,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21631,6 +22030,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21685,6 +22085,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21743,6 +22144,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21797,6 +22199,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21851,6 +22254,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -21905,6 +22309,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -21959,6 +22364,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22013,6 +22419,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22067,6 +22474,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22121,6 +22529,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22175,6 +22584,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22229,6 +22639,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22283,6 +22694,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22337,6 +22749,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22391,6 +22804,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22449,6 +22863,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22503,6 +22918,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -22557,6 +22973,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22611,6 +23028,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22665,6 +23083,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22723,6 +23142,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22777,6 +23197,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22831,6 +23252,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22885,6 +23307,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22939,6 +23362,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -22993,6 +23417,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23047,6 +23472,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23101,6 +23527,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23155,6 +23582,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23209,6 +23637,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23267,6 +23696,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -23321,6 +23751,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23375,6 +23806,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23429,6 +23861,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23483,6 +23916,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23537,6 +23971,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23591,6 +24026,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23645,6 +24081,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23699,6 +24136,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23753,6 +24191,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23807,6 +24246,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -23861,6 +24301,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23915,6 +24356,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -23969,6 +24411,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24023,6 +24466,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24077,6 +24521,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24131,6 +24576,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -24185,6 +24631,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24239,6 +24686,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -24293,6 +24741,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24347,6 +24796,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24401,6 +24851,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24455,6 +24906,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24509,6 +24961,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24563,6 +25016,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24617,6 +25071,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -24671,6 +25126,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -24725,6 +25181,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24779,6 +25236,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24833,6 +25291,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -24887,6 +25346,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -24941,6 +25401,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -24995,6 +25456,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25049,6 +25511,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25103,6 +25566,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25157,6 +25621,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -25211,6 +25676,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25265,6 +25731,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -25319,6 +25786,7 @@
       "bloom_level": "CREATE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -25373,6 +25841,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25431,6 +25900,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25485,6 +25955,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -25539,6 +26010,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25593,6 +26065,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25647,6 +26120,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -25701,6 +26175,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25755,6 +26230,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25809,6 +26285,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25867,6 +26344,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25921,6 +26399,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -25975,6 +26454,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26029,6 +26509,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26083,6 +26564,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26137,6 +26619,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26191,6 +26674,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26245,6 +26729,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -26299,6 +26784,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26353,6 +26839,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -26411,6 +26898,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26465,6 +26953,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26519,6 +27008,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26573,6 +27063,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26627,6 +27118,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26681,6 +27173,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -26735,6 +27228,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -26789,6 +27283,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26843,6 +27338,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -26897,6 +27393,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -26951,6 +27448,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27005,6 +27503,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27059,6 +27558,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27113,6 +27613,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27167,6 +27668,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27221,6 +27723,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27275,6 +27778,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27329,6 +27833,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27383,6 +27888,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27437,6 +27943,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27491,6 +27998,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27545,6 +28053,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27599,6 +28108,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27653,6 +28163,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27707,6 +28218,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27761,6 +28273,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27815,6 +28328,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27869,6 +28383,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -27923,6 +28438,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -27977,6 +28493,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28035,6 +28552,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28089,6 +28607,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28143,6 +28662,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -28197,6 +28717,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28251,6 +28772,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -28305,6 +28827,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28359,6 +28882,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -28413,6 +28937,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28467,6 +28992,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28521,6 +29047,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28579,6 +29106,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28633,6 +29161,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28687,6 +29216,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -28741,6 +29271,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -28795,6 +29326,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28849,6 +29381,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -28903,6 +29436,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -28957,6 +29491,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29011,6 +29546,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -29065,6 +29601,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29119,6 +29656,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29173,6 +29711,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29227,6 +29766,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29281,6 +29821,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29335,6 +29876,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29389,6 +29931,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29443,6 +29986,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -29497,6 +30041,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29555,6 +30100,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29609,6 +30155,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29663,6 +30210,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29717,6 +30265,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29771,6 +30320,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29825,6 +30375,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29883,6 +30434,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29937,6 +30489,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -29991,6 +30544,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -30045,6 +30599,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30099,6 +30654,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30153,6 +30709,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -30207,6 +30764,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30261,6 +30819,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30315,6 +30874,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30369,6 +30929,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30423,6 +30984,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -30477,6 +31039,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30531,6 +31094,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -30585,6 +31149,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30639,6 +31204,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30697,6 +31263,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30751,6 +31318,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -30805,6 +31373,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30859,6 +31428,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30913,6 +31483,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -30967,6 +31538,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31021,6 +31593,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31075,6 +31648,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -31129,6 +31703,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31183,6 +31758,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31237,6 +31813,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31291,6 +31868,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31345,6 +31923,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31399,6 +31978,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -31453,6 +32033,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31507,6 +32088,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31561,6 +32143,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31615,6 +32198,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -31669,6 +32253,7 @@
       "bloom_level": "UNDERSTAND"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31723,6 +32308,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31777,6 +32363,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31831,6 +32418,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31885,6 +32473,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31939,6 +32528,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -31993,6 +32583,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32047,6 +32638,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32101,6 +32693,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32155,6 +32748,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32209,6 +32803,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -32263,6 +32858,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32317,6 +32913,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32371,6 +32968,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32425,6 +33023,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32479,6 +33078,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32533,6 +33133,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32587,6 +33188,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32641,6 +33243,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32695,6 +33298,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32749,6 +33353,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -32803,6 +33408,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -32857,6 +33463,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -32915,6 +33522,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -32969,6 +33577,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33023,6 +33632,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33077,6 +33687,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33131,6 +33742,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33185,6 +33797,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33243,6 +33856,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33297,6 +33911,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -33351,6 +33966,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33405,6 +34021,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33459,6 +34076,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33513,6 +34131,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33567,6 +34186,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -33621,6 +34241,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33675,6 +34296,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33729,6 +34351,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33783,6 +34406,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33837,6 +34461,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33891,6 +34516,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33945,6 +34571,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -33999,6 +34626,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -34053,6 +34681,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34107,6 +34736,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34161,6 +34791,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34215,6 +34846,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -34269,6 +34901,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34323,6 +34956,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34377,6 +35011,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34431,6 +35066,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34489,6 +35125,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34543,6 +35180,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34597,6 +35235,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -34651,6 +35290,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34705,6 +35345,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34759,6 +35400,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34813,6 +35455,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34867,6 +35510,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -34921,6 +35565,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -34975,6 +35620,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35029,6 +35675,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35083,6 +35730,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35137,6 +35785,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35191,6 +35840,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35245,6 +35895,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35299,6 +35950,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35353,6 +36005,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35407,6 +36060,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35461,6 +36115,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35515,6 +36170,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35569,6 +36225,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35623,6 +36280,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35677,6 +36335,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35731,6 +36390,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35785,6 +36445,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -35839,6 +36500,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35893,6 +36555,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -35947,6 +36610,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36001,6 +36665,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -36055,6 +36720,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36104,6 +36770,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -36158,6 +36825,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -36212,6 +36880,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36266,6 +36935,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36320,6 +36990,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36374,6 +37045,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -36428,6 +37100,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36482,6 +37155,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36536,6 +37210,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36590,6 +37265,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36644,6 +37320,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36698,6 +37375,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36752,6 +37430,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36806,6 +37485,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36860,6 +37540,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -36914,6 +37595,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -36968,6 +37650,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37022,6 +37705,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -37076,6 +37760,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37134,6 +37819,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37188,6 +37874,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37242,6 +37929,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37296,6 +37984,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37350,6 +38039,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37404,6 +38094,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37458,6 +38149,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -37512,6 +38204,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37566,6 +38259,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -37620,6 +38314,7 @@
       "bloom_level": "CREATE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37674,6 +38369,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37728,6 +38424,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37782,6 +38479,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37840,6 +38538,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37894,6 +38593,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -37948,6 +38648,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38002,6 +38703,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38056,6 +38758,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -38110,6 +38813,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38164,6 +38868,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38218,6 +38923,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38272,6 +38978,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38326,6 +39033,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38380,6 +39088,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38434,6 +39143,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38488,6 +39198,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -38542,6 +39253,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -38596,6 +39308,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38654,6 +39367,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38708,6 +39422,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -38762,6 +39477,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38816,6 +39532,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38870,6 +39587,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38924,6 +39642,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -38978,6 +39697,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39032,6 +39752,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -39086,6 +39807,7 @@
       "bloom_level": "EVALUATE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39140,6 +39862,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39194,6 +39917,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -39248,6 +39972,7 @@
       "bloom_level": "UNDERSTAND"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39302,6 +40027,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -39356,6 +40082,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -39410,6 +40137,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39464,6 +40192,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39518,6 +40247,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39572,6 +40302,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39626,6 +40357,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39680,6 +40412,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39734,6 +40467,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39788,6 +40522,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39846,6 +40581,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39900,6 +40636,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -39954,6 +40691,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40008,6 +40746,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40062,6 +40801,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40116,6 +40856,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40170,6 +40911,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40224,6 +40966,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40278,6 +41021,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40332,6 +41076,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40386,6 +41131,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40444,6 +41190,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40498,6 +41245,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40552,6 +41300,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40606,6 +41355,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40660,6 +41410,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40714,6 +41465,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40768,6 +41520,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40822,6 +41575,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40876,6 +41630,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -40930,6 +41685,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -40984,6 +41740,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41038,6 +41795,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41092,6 +41850,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41146,6 +41905,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41200,6 +41960,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41254,6 +42015,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41312,6 +42074,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41366,6 +42129,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41420,6 +42184,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41478,6 +42243,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41532,6 +42298,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -41586,6 +42353,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41640,6 +42408,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41694,6 +42463,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41748,6 +42518,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41802,6 +42573,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41856,6 +42628,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41910,6 +42683,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -41964,6 +42738,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -42018,6 +42793,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -42072,6 +42848,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42126,6 +42903,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42180,6 +42958,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42234,6 +43013,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42288,6 +43068,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -42342,6 +43123,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42396,6 +43178,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42450,6 +43233,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42504,6 +43288,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42558,6 +43343,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42612,6 +43398,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42666,6 +43453,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42720,6 +43508,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42774,6 +43563,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -42828,6 +43618,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42882,6 +43673,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -42936,6 +43728,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -42990,6 +43783,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -43044,6 +43838,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43098,6 +43893,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43152,6 +43948,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43206,6 +44003,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43260,6 +44058,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43314,6 +44113,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -43368,6 +44168,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43422,6 +44223,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -43476,6 +44278,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43530,6 +44333,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43584,6 +44388,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43638,6 +44443,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43696,6 +44502,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -43750,6 +44557,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -43804,6 +44612,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43858,6 +44667,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -43912,6 +44722,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -43966,6 +44777,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44020,6 +44832,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44074,6 +44887,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44128,6 +44942,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44182,6 +44997,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44236,6 +45052,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44290,6 +45107,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44344,6 +45162,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44398,6 +45217,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44452,6 +45272,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44506,6 +45327,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44560,6 +45382,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44614,6 +45437,7 @@
       "bloom_level": "CREATE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44668,6 +45492,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44722,6 +45547,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44776,6 +45602,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -44830,6 +45657,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44884,6 +45712,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44938,6 +45767,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -44992,6 +45822,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -45046,6 +45877,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45100,6 +45932,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -45154,6 +45987,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45208,6 +46042,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45262,6 +46097,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45320,6 +46156,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45374,6 +46211,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45428,6 +46266,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -45482,6 +46321,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -45536,6 +46376,7 @@
       "bloom_level": "CREATE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -45590,6 +46431,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45644,6 +46486,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45698,6 +46541,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45752,6 +46596,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45806,6 +46651,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45860,6 +46706,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45914,6 +46761,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -45968,6 +46816,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46022,6 +46871,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46080,6 +46930,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46134,6 +46985,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -46188,6 +47040,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46242,6 +47095,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46296,6 +47150,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46350,6 +47205,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46404,6 +47260,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46458,6 +47315,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46512,6 +47370,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -46566,6 +47425,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46620,6 +47480,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46674,6 +47535,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46728,6 +47590,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46782,6 +47645,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46836,6 +47700,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -46890,6 +47755,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -46944,6 +47810,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47002,6 +47869,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47056,6 +47924,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -47110,6 +47979,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47164,6 +48034,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47218,6 +48089,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47272,6 +48144,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47326,6 +48199,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47380,6 +48254,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47434,6 +48309,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47492,6 +48368,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47546,6 +48423,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47600,6 +48478,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47654,6 +48533,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47708,6 +48588,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47762,6 +48643,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47816,6 +48698,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47870,6 +48753,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47924,6 +48808,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -47978,6 +48863,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48036,6 +48922,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48090,6 +48977,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48144,6 +49032,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48198,6 +49087,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48252,6 +49142,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48306,6 +49197,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -48360,6 +49252,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48414,6 +49307,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48468,6 +49362,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48522,6 +49417,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48576,6 +49472,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48630,6 +49527,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48684,6 +49582,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -48738,6 +49637,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48792,6 +49692,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48846,6 +49747,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -48900,6 +49802,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -48954,6 +49857,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -49008,6 +49912,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49062,6 +49967,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49116,6 +50022,7 @@
       "bloom_level": "UNDERSTAND"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49174,6 +50081,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49228,6 +50136,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -49282,6 +50191,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49336,6 +50246,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49390,6 +50301,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49444,6 +50356,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49498,6 +50411,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -49552,6 +50466,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49610,6 +50525,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49664,6 +50580,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -49718,6 +50635,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -49772,6 +50690,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49826,6 +50745,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -49880,6 +50800,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49934,6 +50855,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -49988,6 +50910,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -50042,6 +50965,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50096,6 +51020,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -50150,6 +51075,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50204,6 +51130,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50258,6 +51185,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -50312,6 +51240,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -50366,6 +51295,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50420,6 +51350,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50474,6 +51405,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50528,6 +51460,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50582,6 +51515,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50636,6 +51570,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50690,6 +51625,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50744,6 +51680,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50798,6 +51735,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50852,6 +51790,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -50906,6 +51845,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -50960,6 +51900,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51014,6 +51955,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51068,6 +52010,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51122,6 +52065,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51176,6 +52120,7 @@
       "bloom_level": "UNDERSTAND"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51230,6 +52175,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51284,6 +52230,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51338,6 +52285,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51392,6 +52340,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51446,6 +52395,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51500,6 +52450,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51554,6 +52505,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51608,6 +52560,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51662,6 +52615,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51716,6 +52670,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51770,6 +52725,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51824,6 +52780,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -51878,6 +52835,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51932,6 +52890,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -51986,6 +52945,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52044,6 +53004,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -52098,6 +53059,7 @@
       "bloom_level": "CREATE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -52152,6 +53114,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52206,6 +53169,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52260,6 +53224,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52314,6 +53279,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52368,6 +53334,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52422,6 +53389,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52476,6 +53444,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52530,6 +53499,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52584,6 +53554,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52638,6 +53609,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52692,6 +53664,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52746,6 +53719,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -52800,6 +53774,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52854,6 +53829,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52908,6 +53884,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -52962,6 +53939,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53016,6 +53994,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53070,6 +54049,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53124,6 +54104,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53178,6 +54159,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53232,6 +54214,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53286,6 +54269,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53340,6 +54324,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53394,6 +54379,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53448,6 +54434,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53502,6 +54489,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53556,6 +54544,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53610,6 +54599,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53664,6 +54654,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53718,6 +54709,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53772,6 +54764,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53826,6 +54819,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -53884,6 +54878,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53938,6 +54933,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -53992,6 +54988,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54046,6 +55043,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54100,6 +55098,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54154,6 +55153,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54208,6 +55208,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54262,6 +55263,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54316,6 +55318,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54374,6 +55377,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -54428,6 +55432,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -54482,6 +55487,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54536,6 +55542,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54590,6 +55597,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54644,6 +55652,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54698,6 +55707,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54752,6 +55762,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -54806,6 +55817,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54860,6 +55872,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54914,6 +55927,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -54968,6 +55982,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55022,6 +56037,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55076,6 +56092,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55134,6 +56151,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55188,6 +56206,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55242,6 +56261,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -55296,6 +56316,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55350,6 +56371,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55404,6 +56426,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55462,6 +56485,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55516,6 +56540,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -55570,6 +56595,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -55624,6 +56650,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55678,6 +56705,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -55732,6 +56760,7 @@
       "bloom_level": "UNDERSTAND"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55786,6 +56815,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -55840,6 +56870,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -55894,6 +56925,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -55948,6 +56980,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56002,6 +57035,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56056,6 +57090,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56110,6 +57145,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -56164,6 +57200,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56218,6 +57255,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56272,6 +57310,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56326,6 +57365,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -56380,6 +57420,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56438,6 +57479,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56492,6 +57534,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56546,6 +57589,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56600,6 +57644,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56654,6 +57699,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56708,6 +57754,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -56762,6 +57809,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56816,6 +57864,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56870,6 +57919,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56924,6 +57974,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -56978,6 +58029,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -57032,6 +58084,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57086,6 +58139,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57140,6 +58194,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57194,6 +58249,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -57248,6 +58304,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57302,6 +58359,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -57356,6 +58414,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57410,6 +58469,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57464,6 +58524,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57518,6 +58579,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -57572,6 +58634,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57626,6 +58689,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -57680,6 +58744,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -57734,6 +58799,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57788,6 +58854,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57842,6 +58909,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57896,6 +58964,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -57950,6 +59019,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -58004,6 +59074,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58058,6 +59129,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58112,6 +59184,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58166,6 +59239,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -58220,6 +59294,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -58274,6 +59349,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58328,6 +59404,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -58382,6 +59459,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58436,6 +59514,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58490,6 +59569,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58544,6 +59624,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58598,6 +59679,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58652,6 +59734,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58706,6 +59789,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58764,6 +59848,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58818,6 +59903,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58872,6 +59958,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58926,6 +60013,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -58980,6 +60068,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59034,6 +60123,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59088,6 +60178,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59142,6 +60233,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59196,6 +60288,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59250,6 +60343,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59304,6 +60398,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -59358,6 +60453,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59412,6 +60508,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59466,6 +60563,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59520,6 +60618,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -59574,6 +60673,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59628,6 +60728,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59682,6 +60783,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -59736,6 +60838,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59790,6 +60893,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59844,6 +60948,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -59898,6 +61003,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -59952,6 +61058,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -60006,6 +61113,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60060,6 +61168,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60114,6 +61223,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60168,6 +61278,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60222,6 +61333,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60276,6 +61388,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60330,6 +61443,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60384,6 +61498,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60442,6 +61557,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60496,6 +61612,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -60550,6 +61667,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -60604,6 +61722,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -60658,6 +61777,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60712,6 +61832,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60766,6 +61887,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60824,6 +61946,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60878,6 +62001,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -60932,6 +62056,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -60990,6 +62115,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61044,6 +62170,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61098,6 +62225,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61152,6 +62280,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61206,6 +62335,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61260,6 +62390,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -61314,6 +62445,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61368,6 +62500,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61422,6 +62555,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -61476,6 +62610,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61530,6 +62665,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61584,6 +62720,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61638,6 +62775,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -61696,6 +62834,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -61750,6 +62889,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -61804,6 +62944,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -61858,6 +62999,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61912,6 +63054,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -61970,6 +63113,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -62028,6 +63172,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62082,6 +63227,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62136,6 +63282,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62190,6 +63337,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62244,6 +63392,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62302,6 +63451,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62356,6 +63506,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62410,6 +63561,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62464,6 +63616,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62518,6 +63671,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62572,6 +63726,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62626,6 +63781,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62680,6 +63836,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -62734,6 +63891,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62788,6 +63946,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -62842,6 +64001,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62896,6 +64056,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -62950,6 +64111,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63004,6 +64166,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63058,6 +64221,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -63112,6 +64276,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63170,6 +64335,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63224,6 +64390,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -63278,6 +64445,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63332,6 +64500,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63390,6 +64559,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63444,6 +64614,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63498,6 +64669,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -63552,6 +64724,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -63606,6 +64779,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63660,6 +64834,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63714,6 +64889,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63768,6 +64944,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -63822,6 +64999,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63876,6 +65054,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63930,6 +65109,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -63988,6 +65168,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64042,6 +65223,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64096,6 +65278,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64150,6 +65333,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64204,6 +65388,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64258,6 +65443,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64312,6 +65498,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64366,6 +65553,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -64424,6 +65612,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64478,6 +65667,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64532,6 +65722,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64586,6 +65777,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -64640,6 +65832,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -64694,6 +65887,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 2,
       "content": [
         {
           "type": "text",
@@ -64748,6 +65942,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64802,6 +65997,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64856,6 +66052,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",
@@ -64910,6 +66107,7 @@
       "bloom_level": "ANALYZE"
     },
     {
+      "type": 1,
       "content": [
         {
           "type": "text",

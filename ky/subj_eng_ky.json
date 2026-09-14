@@ -56,7 +56,8 @@
           "content": "Туура жооп: read, will learn. Бул first conditional конструкциясы. Биринчи бөлүктө present simple колдонулат — read, ал эми негизги бөлүктө future simple — will learn колдонулат. Мааниси: эгер сен “Alice in Wonderland” китебин окусаң, 19-кылымдагы Улуу Британия жөнүндө көп нерсе билесиң.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -114,7 +115,8 @@
           "content": "Туура жооп: big government is bad government. Текстте Элла Грассо чоң улуттук өкмөттө иштерди аткаруу кыйын экенине нааразы болгону жана кийин штат өкмөтүнүн көлөмүн кыскартканы айтылган. Ошондуктан анын ою боюнча чоң өкмөт жакшы эмес деген жыйынтык чыгат.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -172,7 +174,8 @@
           "content": "Жарнама sports & leisure center жөнүндө, башкача айтканда спорт жана эс алуу иш-аракеттери. Бул жерде спорттук же фитнес сабактары болушу мүмкүн (мисалы aerobics). Ал эми information science classes спорт же эс алуу менен байланыштуу эмес. Ошондуктан борбор мындай кызматты сунушташы күмөн.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -230,7 +233,8 @@
           "content": "Туура жооп: a violin. Сүрөттөмөдө төрт кылдуу музыкалык аспап айтылып жатат, ал ийинге же ээк астына коюлуп, жаа (bow) менен ойнолот. Бул белгилер скрипкага тиешелүү, ошондуктан туура жооп a violin.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -284,7 +288,8 @@
           "content": "Туура жооп: did you go. Биринчи суроодо present perfect (“Have you ever been…”) колдонулган. Андан кийин так убакыт (“three years ago”) айтылгандыктан past simple колдонулат. Ошондуктан туура суроо: When did you go there?\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -338,7 +343,8 @@
           "content": "Туура жооп: Safety words. Бул сөздөр коопсуздукка байланышкан эскертүүлөр жана белгилерде колдонулат: danger, fire exit, first aid, no trespassing ж.б. Ошондуктан алар safety words категориясына кирет.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -396,7 +402,8 @@
           "content": "Туура жооп: drive. “Drive” сөзү эки сүйлөмдө тең колдонулушу мүмкүн. Биринчи сүйлөмдө “a two-hour drive” – машина менен эки сааттык жол дегенди билдирет. Экинчи сүйлөмдө “drive them mad” – “аларды жинди кылат, аябай тажатат” деген маанини берет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -454,7 +461,8 @@
           "content": "Туура жооп: Selfishness. Текстте Элла Грассо жөнөкөй, ишине берилген жана адамдардын кызыкчылыктарын коргогон саясатчы катары сүрөттөлөт. Ал өз кызыкчылыгынан көрө элдин кызыкчылыгын жогору койгон, ошондуктан selfishness (өзүмчүлдүк) аны мүнөздөбөйт.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -512,7 +520,8 @@
           "content": "“Might” мүмкүнчүлүктү же ыктымалды билдирет. Демек сүйлөмдүн мааниси: балким Sveta сага телефон чалат. Туура түшүндүрмө: perhaps Sveta will phone you.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -566,7 +575,8 @@
           "content": "Сүйлөмдүн мааниси: жашоодо мүмкүнчүлүктөрдү колдонуп калуу керек, анткени кээ бир нерселер бир эле жолу болот. Ошондуктан туура сөз: once.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -620,7 +630,8 @@
           "content": "Туура жооп: The more you study, the better you learn. Бул сүйлөм “канчалык көп окусаң, ошончолук жакшы үйрөнөсүң” деген маанини берет. Бул жакшы окуучунун ураанына туура келет, анткени жакшы жыйынтык көп окуу менен келет.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -678,7 +689,8 @@
           "content": "Should have gone конструкциясы адам бир нерсени кылышы керек эле, бирок кылган жок дегенди билдирет. Демек Adyl почтага барышы керек болчу, бирок барган эмес. Ошондуктан туура жооп: didn’t go to the post office.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -736,7 +748,8 @@
           "content": "Туура жооп: later. Сүйлөмдө Никита дарыгерге барышы керек болгону айтылып жатат, ошондуктан ал классташтарына караганда кечирээк келет. “Later” деген сөз “кечирээк” деген маанини билдирет жана бул жерде салыштыруу үчүн колдонулат.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -794,7 +807,8 @@
           "content": "Туура жооп: Readers can have a day trip for just $10. Жарнамада журналдын ичиндеги токендерди чогултсаң, Голливудга бир күндүк саякатты болгону 10 долларга ала аласың деп айтылган.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -848,7 +862,8 @@
           "content": "Туура жооп: Both Nurlan and Adyl work in an office. Баштапкы сүйлөмдө Нурлан да, Адыл да кеңседе иштей турганы айтылган. “Both … and …” конструкциясы эки адам бир эле нерсени кылып жатканын билдирүү үчүн колдонулат. Ошондуктан бул сүйлөмдүн мааниси баштапкы сүйлөм менен бирдей.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -902,7 +917,8 @@
           "content": "Туура жооп: its, yours. Биринчи бош орунга “its” колдонулат, анткени сөз үй-бүлө (зат атооч) жөнүндө болуп жатат. Экинчи бөлүктө үй-бүлөлөрдү салыштыруу мааниси бар: “does yours?” — “силердикичи?” дегенди билдирет.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -960,7 +976,8 @@
           "content": "Биринчи сүйлөмдө туруктуу иш жөнүндө айтылып жатат, ошондуктан Present Simple: run. Экинчи сүйлөмдө бүгүнкү пландалган аракет, ошондуктан Present Continuous: am having. Үчүнчү сүйлөмдө дайыма кайталанган аракет, ошондуктан Present Simple: have. Акыркы бөлүктө promise этишинен кийин to + verb колдонулат: to meet. Туура вариант: run, am having, have, to meet.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -1022,7 +1039,8 @@
           "content": "Туура жооп — В, анткени worried сөзү «тынчсыздануу, кабатыр болуу» дегенди билдирет. Адамдын кабатыр болушуна негиздүү себеп — кызы үйүнө али келе элек жана түн ортосунан да өтүп кеткен жагдай. Калган варианттар болсо жагымдуу же кубанычтуу окуяларды билдирет, ошондуктан алар тынчсызданууну жаратпайт."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1084,7 +1102,8 @@
           "content": "“Both of them” деген сөз так эки нерсени билдирет. Демек кутуда 2 тоок болгон.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1142,7 +1161,8 @@
           "content": "Бул шарттуу сүйлөмдүн экинчи түрү (Second Conditional). Мындай конструкцияда “If I were you” формасы колдонулат. Ошондуктан туура сөз: were.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1200,7 +1220,8 @@
           "content": "Туура жооп: when. Сүйлөмдө дарактар хлорофиллди качан токтотоору айтылып жатат. “When” — “качан” дегенди билдирет жана жарык жетишсиз болгон учурда процесс токтой турганын көрсөтөт.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1258,7 +1279,8 @@
           "content": "Сүйлөмдө адам костюмду кайра дүкөнгө алып барып алмаштырарын айтып жатат. Бул мааниде send it back (кайра жөнөтүү/кайтарып берүү) туура келет, анткени ал товарды дүкөнгө кайра берип алмаштырууну билдирет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1312,7 +1334,8 @@
           "content": "Сүйлөмдө “Look!” деген сөз азыр болуп жаткан аракетти көрсөтөт. Мындай учурда Present Continuous колдонулат: is blowing. Демек аракет сүйлөп жаткан учурда болуп жатат. Туура вариант: Look! The wind is blowing away the kite.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1374,7 +1397,8 @@
           "content": "Invited / had seen варианты туура, анткени: invited өткөн чак менен шайкеш келет, ал эми had seen мурда болгон аракетти көрсөтөт, башкача айтканда, фильм чакыруудан мурда эле көрүлгөн."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1428,7 +1452,8 @@
           "content": "Туура жооп: visitors. Сүйлөмдө “many” колдонулгандыктан көптүк форма керек. “Visitors” — келген адамдар, туристтер дегенди билдирет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1482,7 +1507,8 @@
           "content": "Англис тилинде белгилүү макал бар: “A cat has nine lives.” — «Мышыктын тогуз жаны бар.»"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1540,7 +1566,8 @@
           "content": "While өткөн убактагы узак аракетти көрсөтөт, ошондуктан Past Continuous колдонулат: was observing. Негизги жыйынтык же факт бир жолу болгон аракет, ошондуктан Past Simple колдонулат: realized. Туура вариант: was observing, realized.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -1598,7 +1625,8 @@
           "content": "How often деген суроо аракеттин канчалык көп кайталанарын сурайт. Ошондуктан жооп жыштыкты көрсөтүшү керек. Once a week — жумасына бир жолу дегенди билдирет, ошондуктан туура жооп: I visit her once a week.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1660,7 +1688,8 @@
           "content": "Туура жооп: American. “Nation’s” сөзү бул жерде Америка өлкөсүн билдирет. Ошондуктан “nation’s leading financial and commercial centre” дегенди “American leading financial and commercial centre” деп алмаштырууга болот. Мааниси өзгөрбөйт, экөө тең Америкадагы негизги каржы жана соода борбору дегенди билдирет.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -1722,7 +1751,8 @@
           "content": "Сүйлөмдүн мааниси: кээде автобус күтүүгө туура келет, бирок мотоцикл болсо дароо бара аласың. Ошондуктан салыштыруу motorcycles жана buses ортосунда. Күтүлө турган нерсе — bus, ал эми жеке транспорт — motorcycle. Туура вариант: Motorcycles, buses, bus, motorcycle.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1780,7 +1810,8 @@
           "content": "Жооп убакыт формасынын туура колдонулушун билдирет."
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -1842,7 +1873,8 @@
           "content": "Was having формасы өткөн чакта жүрүп жаткан аракетти билдирет. Ал «телефон чалган учурда мен түшкү тамак жеп жаткан элем» деген сыяктуу абалга туура келет жана грамматикалык жактан Past Continuous (өткөн чактын улантма формасы) менен колдонулат."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1900,7 +1932,8 @@
           "content": "“At home” жообу идиомалык мааниге ээ. Ал «өз үйүңдө жүргөндөй эркин бол» дегенди билдирет. Бул конокту ыңгайлуу сезиши үчүн айтылган сылык сөз айкашы."
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -1958,7 +1991,8 @@
           "content": "Узак аракет болуп жатканда Past Continuous колдонулат: was listening. Ошол учурда болгон кыска аракет Past Simple менен айтылат: rang. Андан кийин дагы бир кыска аракет Past Simple менен колдонулат: picked up. Туура вариант: was listening, rang, picked up.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2016,7 +2050,8 @@
           "content": "Сүйлөмдө салыштыруу бар: “than I did before”, ошондуктан more колдонулат. “A bit more money” — бир аз көбүрөөк акча дегенди билдирет. Экинчи бөлүктө “not much more than before” — мурдагыдан анча деле көп эмес деген мааниде. Туура вариант: bit more, much more.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2074,7 +2109,8 @@
           "content": "Туура жооп: am visiting. Бул сүйлөмдө ушул жумага пландалган иш жөнүндө айтылып жатат. Мындай учурда англис тилинде planned future үчүн present continuous колдонулат. Ошондуктан туура вариант: am visiting.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2132,7 +2168,8 @@
           "content": "Текстте Azamat баары менен жакшы сүйлөшөт, тамаша кылат, комплимент айтат жана баарлашат. Бул адамдар менен оңой аралаша алган адамды билдирет. Ошондуктан туура сөз: sociable.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -2186,7 +2223,8 @@
           "content": "Туура жооп: girls’. Сүйлөмдө эки кыз жөнүндө айтылып жатат, ошондуктан көптүк формадагы possessive колдонулат. “Girls’ school” — “кыздардын мектеби” дегенди билдирет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2240,7 +2278,8 @@
           "content": "1: Bakyt эки жылдан бери куруп жатат, үй али бүтө элек.\n2: Mike’тин үйү азыр курулуп жатат.\n3: David’тин үйү жарым жылдан кийин гана бүтөт.\n4: Jakyp үйдү уже куруп бүтүп, ушул айда көчмөкчү.\n\nДемек жаңы үйү даяр болуп, көчүүгө даяр адам — Jakyp.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -2302,7 +2341,8 @@
           "content": "Туура жооп: cheerful and broad-minded. Сүйлөмдө адам кайгылуу жана тар ойлуу адам менен жашай албайм деп айтат. Ошондуктан анын тескериси болгон мүнөздөр — cheerful (көңүлдүү) жана broad-minded (кең ой жүгүрткөн) туура келет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2360,7 +2400,8 @@
           "content": "Туура жооп: Dan. Дан “as soon as I have time, I will fix your car” деп айтып жатат, башкача айтканда убактысы болгондо машинаны оңдоп берүүгө даяр. Калгандары жардам бере алышпайт же мурда жардам бере алмакмын деп гана айтышат.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2418,7 +2459,8 @@
           "content": "“He is afraid of his shadow” деген фраза англис тилиндеги идиома болуп саналат жана түз мааниде адам өзүнүн көлөкөсүнөн өзү коркот дегенди билдирбейт."
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -2484,7 +2526,8 @@
           "content": "“Out of style” деген сөз айкашы модада эмес, эски мода дегенди билдирет. Демек B жакет модадан чыккан деп ойлойт. Ошондуктан туура жооп: is not fashionable.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -2542,7 +2585,8 @@
           "content": "Сүйлөм планетаны коргоо жөнүндө: канаттууларды жана жаныбарларды коргоо, дарактарды отургузуу, өсүмдүктөрдү сугаруу — булар туура аракеттер. Ал эми “throw the garbage about” (таштандыларды туш келди ыргытуу) планетаны коргоого каршы келет. Ошондуктан туура эмес бөлүк: D.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2600,7 +2644,8 @@
           "content": "I: going to play — али ойной элек.\nII: is playing — азыр ойноп жатат.\nIII: has been playing since 10 o’clock — 10дон бери ойноп жатат, демек азыр да ойноп жатат.\nIV: likes playing — жөн гана жактырат, азыр ойноп жатканын билдирбейт.\nЖыйынтык: Maxim жана Arafat гана.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2658,7 +2703,8 @@
           "content": "Баш сөздө “Mobile phones getting smaller and smaller” деп жазылган. Бул технологиянын өнүгүшү жана телефондордун кичирейиши жөнүндө. Ошондуктан мындай жаңылык көбүнчө science and technology бөлүмүнө тиешелүү.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2716,7 +2762,8 @@
           "content": "Сүйлөмдө бала кезде дайыма болуп турган аракеттер жөнүндө айтылат. Мындай учурда used to + verb колдонулат. Жайында көлдө сүзчү, кышында муз үстүндө коньки тебчү. Ошондуктан туура вариант: used to swim, used to skate.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2774,7 +2821,8 @@
           "content": "Туура жооп: B. “Pollutions” туура эмес колдонулган, анткени “pollution” эсептелбеген зат атооч жана көптүк форма колдонулбайт. Туурасы: pollution.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2832,7 +2880,8 @@
           "content": "Суроодо “Have you got … who knows about fashion?” деп жалпы бирөөнү сурап жатат, ошондуктан anybody колдонулат. Экинчи сүйлөмдө Adina мода жөнүндө абдан жакшы билет деген мааниде everything колдонулат. Туура вариант: anybody, everything.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2886,7 +2935,8 @@
           "content": "I: Irina азыр кеткени жатат, демек азыр Бишкекте.\nII: Alina эч качан барууну ойлобогон, демек Ошто эмес.\nIII: Zarema эки жыл мурда Ошко көчүп кеткен, демек азыр Ошто болушу мүмкүн.\nIV: Salima эки жылдан бери Ошто жашап жатат, демек азыр Ошто.\nЖыйынтык: Zarema жана Salima гана.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2944,7 +2994,8 @@
           "content": "Smelling гүлдөрдүн жытын сезүү дегенди билдирет. Жыт сезүү органы — nose, ошондуктан туура жооп: nose.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -3002,7 +3053,8 @@
           "content": "Биринчи суроодо гитараны адатта ким ойнойт деп суралып жатат (“when he has time”), ошондуктан Present Simple колдонулат: plays. Экинчи суроодо азыркы учурда болуп жаткан аракет жөнүндө айтылат, ошондуктан Present Continuous колдонулат: is playing. Туура вариант: plays, is playing.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3060,7 +3112,8 @@
           "content": "Туура жооп: the one. “One” сөзү мурун айтылган нерсенин ордуна колдонулат. Бул жерде “building” деген сөз кайталанбашы үчүн “the one” деп айтылат. Ошондуктан сүйлөмдүн мааниси: “Алар бурчтагы имаратта жашашат.”\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -3118,7 +3171,8 @@
           "content": "Суроо өткөн убакытта берилген (“Did you take part…”), ошондуктан жооп да Past Simple менен болушу керек. “Participate in” — “take part in” менен бирдей мааниде. Ошондуктан туура жооп: Yes, I participated in it.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3176,7 +3230,8 @@
           "content": "Диалогдо Джек «ооба, айырмачылыктар болгон, бирок ал жөнүндө начальнигим билбейт» деп айтат. Бул анын өзүнүн пикири бар, бирок аны ачык айтпай турганын билдирет. Ошондуктан туура түшүндүрмө: has his own opinion but never speaks it out loudly.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3238,7 +3293,8 @@
           "content": "Tiny деген сөз “өтө кичине” дегенди билдирет. Анын карама-каршы мааниси — big, башкача айтканда чоң.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3296,7 +3352,8 @@
           "content": "Биринчи суроодо азыркы убактагы каалоо жөнүндө сөз болуп жатат, ошондуктан Present Simple колдонулат: do you want. Экинчи сүйлөмдө түшүнбөй жатам деген мааниде Present Simple колдонулат: don’t understand. Акыркы бөлүгүндө азыркы учурдагы абалды көрсөтөт, ошондуктан are колдонулат. Туура вариант: do you want, don’t understand, are.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3354,7 +3411,8 @@
           "content": "Туура жооп: such a. Сүйлөмдө “such … that” конструкциясы колдонулат, ал күчтүү даражаны билдирет. “Such a long delay that we had to sleep at the airport” — туман ушунчалык узак кечигүү жараткандыктан, биз аэропортто уктоого мажбур болдук дегенди билдирет.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -3412,7 +3470,8 @@
           "content": "Сүйлөмдө козу карындар аз болгонун билдирүү керек. Countable зат атооч (mushrooms) менен аз санда деген мааниде a few колдонулат. Ошондуктан туура вариант: a few.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -3470,7 +3529,8 @@
           "content": "Туура жооп: chase, traffic police, escorted. Биринчи бош орунга chase колдонулат, анткени полиция менен айдоочунун ортосунда кубалоо болгон. Экинчи орунга traffic police туура келет, себеби айдоочуну жол полициясы токтоткон. Үчүнчү орунга escorted колдонулат, бул айдоочуну полиция автоунаа жолу менен алып чыгып кеткенин билдирет.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -3528,7 +3588,8 @@
           "content": "Туура жооп: communication. Англис тилинде туруктуу сөз айкашы “in close communication with nature” колдонулуп, табият менен жакын байланышта жашоо деген маанини билдирет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3582,7 +3643,8 @@
           "content": "Туура жооп: neither can. Сүйлөмдө төө куштар уча албайт деп айтылган, андан кийин пингвиндер да уча албай турганы кошумчаланып жатат. Мындай учурда “neither can” конструкциясы колдонулат: neither can penguins.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3640,7 +3702,8 @@
           "content": "Жарнамада “For all your woodwork… Quick repairs” деп жазылган. Woodwork — жыгачтан жасалган буюмдар, мисалы мебель. Демек бул кызмат жыгач буюмдарды оңдойт. Ошондуктан туура жооп: furniture fixed.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3698,7 +3761,8 @@
           "content": "Туура жооп: dealing with, being. “When dealing with a complaint” — “даттануу менен иштеп жатканда” деген маанини берет. Экинчи бөлүктө “instead of being aggressive or rude” — “агрессивдүү же орой болуунун ордуна” деген конструкция колдонулат.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -3756,7 +3820,8 @@
           "content": "Жарнамада балдардын жайкы лагерине иштөө үчүн жаш адамдар керек экени айтылган. Балдар менен иштөө үчүн адамдар активдүү, шайыр жана энергиялуу болушу керек. Ошондуктан туура вариант: enthusiastic and lively.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -3814,7 +3879,8 @@
           "content": "Туура жооп: Neither will we. Биринчи сүйлөмдө “They won’t play golf” деп айтылып, алар гольф ойнобой турганы билдирилген. Ошол эле терс мааниге кошулуу үчүн “Neither will we” колдонулат, бул “Биз да ойнобойбуз” дегенди билдирет. “Neither + will + subject” конструкциясы терс сүйлөмгө кошулуу үчүн колдонулат.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3872,7 +3938,8 @@
           "content": "Сүйлөмдө тест жаман өткөнү айтылат (“Terrible!”). Демек ал көп суроолорго туура эмес жооп берген. Ошондуктан туура сөз: incorrectly.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -3930,7 +3997,8 @@
           "content": "Туура жооп: strong wind. Катуу шамал жаанды күчөтүп же сууну түртүп, дарыядагы суунун деңгээлин көтөрүшү мүмкүн. Ошондуктан дарыя жээгинен чыгып кетиши мүмкүн.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3988,7 +4056,8 @@
           "content": "Туура жооп: I and III only. I сүйлөмүндө “I regret I wasn’t born in another country” деп айтылып, адам башка өлкөдө төрөлбөгөнүнө өкүнүп жатат. III сүйлөмүндө “I wish I had been born in another country” деп, башка өлкөдө төрөлсөм жакшы болмок деп өкүнүү же каалоо билдирилет. Экөөнүн мааниси бирдей – өткөн нерсеге өкүнүү. II жана IV сүйлөмдөрүндө маани толук бирдей эмес.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4046,7 +4115,8 @@
           "content": "Туура жооп: were kept. Сүйлөмдө “we” өзү күтпөй, башка бирөө аларды күттүргөнү айтылып жатат. Ошондуктан passive voice колдонулат: were kept waiting — “күттүрүлдүк”. Толук мааниси: биз эрте келгендиктен, офисте бир саат күттүрүлдүк.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -4100,7 +4170,8 @@
           "content": "Туура жооп: employs, employers. Биринчи бош орунга employs колдонулат, анткени бул “көп адамдарды жумушка алат” дегенди билдирет. Экинчи бош орунга employers туура келет, бул “жумуш берүүчүлөрдүн бири” деген маанини берет.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -4158,7 +4229,8 @@
           "content": "Horse — бул жаныбар, ошондуктан анын таандыктык формасы үчүн **its** колдонулат (it + possessive). Ошондуктан туура сүйлөм: The horse had a white star on its forehead.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -4216,7 +4288,8 @@
           "content": "Туура жооп: outfit, stylish, best-dressed. Биринчи бош орунга outfit колдонулат, анткени сөз анын кийими жөнүндө болуп жатат. Экинчи орунга stylish туура келет, бул “стилдүү” дегенди билдирет. Үчүнчү орунга best-dressed колдонулат, бул кеңседеги эң жакшы кийинген адам экенин көрсөтөт.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -4270,7 +4343,8 @@
           "content": "Туура жооп: needn’t. Суроодо “Must Jenny send this telegram tomorrow?” деп милдеттүүлүк жөнүндө суралган. Жоопто милдеттүү эмес экенин сылык айтууда “needn’t” колдонулат. Мааниси: ал эртең жөнөтүшү шарт эмес, кийинки жумада жөнөтсө болот.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -4328,7 +4402,8 @@
           "content": "Бул бир сөз — fair, ал грамматикалык жактан да, мааниси боюнча да эки учурда тең туура келет."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4386,7 +4461,8 @@
           "content": "Much сөзү эсептелбеген зат атоочтор менен колдонулат, мисалы: much water (көп суу), much bread (көп нан). Бирок ал “some” сөзү менен бирге колдонулбайт."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4448,7 +4524,8 @@
           "content": "Биринчи боштукта орун көрсөтүлөт, ошондуктан here колдонулат. Экинчи боштукта үн угуу жөнүндө айтылат, ошондуктан hear колдонулат. Туура вариант: here, hear.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4502,7 +4579,8 @@
           "content": "Туура жооп: speak, say. “Learn to speak” — сүйлөгөндү үйрөнүп жатат дегенди билдирет. “Say two words” — эки сөздү айта алат деген маанини берет.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -4560,7 +4638,8 @@
           "content": "Soft деген сөз жумшак дегенди билдирет жана ар кандай нерсеге колдонулушу мүмкүн. Chair, sofa, pillow — физикалык жактан жумшак болушу мүмкүн, ал эми drink — даамы боюнча “soft drink” деп айтылат. Ошондуктан туура жооп: a chair, a sofa, a pillow, a drink.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4622,7 +4701,8 @@
           "content": "Текст өткөн окуяны баяндайт, ошондуктан негизги аракеттер Past Simple менен айтылат: swam, drank, felt. Акыркы сүйлөмдө жөндөмдүүлүк жөнүндө өткөн убакта айтылган, ошондуктан could колдонулат. Туура вариант (Б): swam, drank, felt, could.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4696,7 +4776,8 @@
           "content": "Туура жооп: II and IV only. II суроосу “How long does it take you to get to the University?” — жооптогу “twenty minutes” маалыматка туура келет. IV суроосу да убакыт тууралуу сурайт: “Does it take you twenty or fifty minutes…?”. I убакыт жөнүндө сурайт (when), ал эми III автобус токтоочу жайдын аралыгы тууралуу, бул жоопко туура келбейт.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4754,7 +4835,8 @@
           "content": "Бул сүйлөмдө белгилүү дата колдонулат. Даталар менен **on** колдонулат: on the thirty first. Айдын аталышы алдында **of** колдонулат: of August. Өлкөнүн ичинде деген мааниде **in** колдонулат: in the Kyrgyz Republic. Туура вариант: on, of, in.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -4812,7 +4894,8 @@
           "content": "When the tide came in деген сөз айкашы «деңиз суусу көтөрүлгөндө» деген маанини билдирет."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4870,7 +4953,8 @@
           "content": "While узак процесс болуп жаткан аракетти көрсөтөт, ошондуктан Past Continuous колдонулат: was shopping. Ошол учурда болгон бир жолку окуя Past Simple менен айтылат: lost. Туура вариант: was shopping, lost.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4928,7 +5012,8 @@
           "content": "Aziza музыка абдан таасирдүү жана кызыктуу болгонун айтат. Калгандары музыка жөнүндө терс же нейтралдуу пикир билдиришет. Демек концертти эң көп жактырган адам — Aziza.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -4986,7 +5071,8 @@
           "content": "Is being built — «азыр курулуп жатат» дегенди билдирет (пассив формасы, азыркы учурда жүрүп жаткан процессти көрсөтөт).\n\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -5044,7 +5130,8 @@
           "content": "Friends from enemies деген туруктуу сөз айкашы бар, мааниси “досторду душмандардан айырмалоо”. Ошондуктан сүйлөмдүн туура аягы: enemies.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5098,7 +5185,8 @@
           "content": "Туура жооп: would be sent. Бул reported speech (бөтөн сөз) болгондуктан “want to send” формасы өткөн чактын формасына өзгөрөт. Ошондуктан “would be sent” колдонулат. Мааниси: сенин документтериң жума күнгө чейин жөнөтүлмөк.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5156,7 +5244,8 @@
           "content": "Туура жооп: had been waiting, finally arrived, didn’t know. Биринчи бөлүктө аракет узак убакыт бою өткөндө болуп келгенин көрсөтүү үчүн past perfect continuous колдонулат — had been waiting. Экинчи бөлүктө ошол учур келгенин билдирүү үчүн past simple — finally arrived колдонулат. Үчүнчү бөлүктө да ошол учурда эмне кылууну билбегенин көрсөтүү үчүн past simple — didn’t know колдонулат.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -5210,7 +5299,8 @@
           "content": "Биз бир үйдө жашагандыктан, бири-бирибизди тааныйбыз — бул себепти түшүндүрүү аркылуу билимди же маалымдуулукту ырастайбыз."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5268,7 +5358,8 @@
           "content": "Сүйлөмдө түн ичинде сарайдан сүрөт, зер буюмдар жана акча жоголгону айтылат, полиция чакырылган. Бул уурулук болгонун билдирет. Ошондуктан туура сөз: robbery.\n"
         }
       ],
-      "bloom_level": "CREATE"
+      "bloom_level": "CREATE",
+      "type": 1
     },
     {
       "content": [
@@ -5326,7 +5417,8 @@
           "content": "“Lifeless oceans, seas and rivers” деген баш сөз сууларда тиричилик жок болуп бара жатканын билдирет. Бул көбүнчө балыктарды ашыкча кармоо менен байланыштуу. Ошондуктан туура жооп: overfishing.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5388,7 +5480,8 @@
           "content": "Interesting деген сөз кызыктуу дегенди билдирет. Анын карама-каршы мааниси — boring, башкача айтканда кызыксыз.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -5446,7 +5539,8 @@
           "content": "I wish конструкциясы азыркы учурда чындыкка каршы каалоону билдирет. Демек сүйлөп жаткан адам азыр Эгей деңизиндеги кичинекей аралда эмес. Ошондуктан мааниси: I am not on a small island in the Aegean Sea.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5504,7 +5598,8 @@
           "content": "Бала атасына караңгыда жазса болобу деп сурайт, анан жарыкты өчүрүп отчетуна кол коюп берүүнү суранат. Бул атасы бааларды көрбөшү үчүн жасалган. Ошондуктан туура жооп: hide poor marks from his father.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5566,7 +5661,8 @@
           "content": "Сүйлөмдө эс алуу жаман өткөнү айтылат: тамактар жаман, мейманкана ызы-чуу, пляждар толо адамдар. Бул адам күткөндөй жакшы болбой калганын көрсөтөт. Ошондуктан туура сөз: disappointment.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5620,7 +5716,8 @@
           "content": "Туура жооп: to – than – than. \n“prefer … to …” конструкциясы эреже боюнча биринчи сүйлөмдө колдонулат. “Better than” жана “Would rather … than …”сын атоочтордун салыштырма деңгээлинин эрежесине дал келет."
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -5678,7 +5775,8 @@
           "content": "Every day деген сөз айкашы күн сайын кайталанган аракетти көрсөтөт, ошондуктан Present Simple колдонулат. Ошондуктан туура форма: starts.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -5736,7 +5834,8 @@
           "content": "“American Business” деген аталыш америкалыктар ар кандай нерседен пайда таба билишерин билдирет. Ошондуктан туура түшүндүрмө: most Americans can make profit of everything.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5794,7 +5893,8 @@
           "content": "Текстте эртеңки аба ырайы сүрөттөлгөн: жаан, шамал, кайсы жерде жылуу же суук болору айтылган. Бул аба ырайы жөнүндө алдын ала маалымат. Ошондуктан туура жооп: weather forecast.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5852,7 +5952,8 @@
           "content": "Сүйлөмдө негизги бөлүк терс формада: “doesn’t play”. Tag question болсо тескерисинче оң формада болот жана жардамчы этиш колдонулат: does he. Туура вариант: does he.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -5914,7 +6015,8 @@
           "content": "Туура жооп: to start. “Launch the campaign” деген сөз айкашы кампанияны баштоо дегенди билдирет. Ошондуктан анын маанисине эң жакын вариант — to start.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5972,7 +6074,8 @@
           "content": "Англис тилинде must көп учурда сүйлөп жаткан адам фактыларга же жагдайларга таянып жыйынтык чыгарганда колдонулат."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6030,7 +6133,8 @@
           "content": "I wouldn’t… if I were you деген форма кеңеш же эскертүү берет. Сүйлөмдүн мааниси: компьютерди күйгүзбө деп эскертүү. Ошондуктан эң жакын вариант: He warned me not to turn the computer on.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6084,7 +6188,8 @@
           "content": "Туура жооп вулкандык активдүүлүктүн мүнөздүү белгисин билдирет."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6142,7 +6247,8 @@
           "content": "Azat жерди тааныштырып жатат: кайда отуруп кофе ичсе болорун, көчөдөгү базарды көрүүгө болорун айтып, адамдарды топтоп суусундук заказ кылууну сунуштайт. Бул туристтерге жерди көрсөтүп жаткан адам экенин билдирет. Ошондуктан туура жооп: a tourist guide.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6200,7 +6306,8 @@
           "content": "Сүйлөмдө адамдар бири-бирин түртүп, уруп жатканы айтылат. Бул чоң уруш болгонун билдирет. Ошондуктан туура сөз: fight.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6258,7 +6365,8 @@
           "content": "Сүйлөмдө адам өкүнүп жатат, анткени досу келгенде ал үйдө болгон эмес. Мындай кырдаалды билдирүү үчүн unfortunately колдонулат. Туура вариант: unfortunately.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -6312,7 +6420,8 @@
           "content": "Туура жооп: has lived, was. Биринчи бөлүктө present perfect колдонулат, анткени аракет өткөндө башталып азыркы убакытка чейин уланууда — has lived. “Since she was a baby” дегенде өткөн учур айтылгандыктан past simple — was колдонулат.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6370,7 +6479,8 @@
           "content": "Туура жооп: had finished. Сүйлөмдө эки өткөн аракет бар. Нурлан келгенге чейин тамак жеп бүткөн. Мындай учурда earlier past аракетти көрсөтүү үчүн past perfect колдонулат — had finished.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6428,7 +6538,8 @@
           "content": "Туура жооп: Let’s listen to Ann’s question! “Let’s” формасы англис тилинде сунуш же чакырык билдирүү үчүн колдонулат. Бул жерде мугалим баарына Анндын суроосун угалы деп сунуш кылып жатат.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -6486,7 +6597,8 @@
           "content": "Сүйлөм жалпы факт жөнүндө айтып жатат, ошондуктан Present Simple Passive колдонулат. Апельсиндер өздөрү эмес, адамдар тарабынан терилет жана ташылат. Ошондуктан туура формалар: are picked, are transported.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6544,7 +6656,8 @@
           "content": "Туура жооп: worked. Сүйлөмдө “since 2010 to 2015” деп өткөн убакыттагы так мезгил көрсөтүлгөн. Иш-аракет өткөндө башталып, 2015-жылы аяктаган, ошондуктан past simple колдонулат. Ошондуктан туура форма worked.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -6602,7 +6715,8 @@
           "content": "Биринчи боштукта өлкөнүн аталышы керек, экинчи боштукта улут (nationality). Germany — өлкө, German — ошол өлкөнүн адамы. Ошондуктан туура вариант: Germany, German.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -6656,7 +6770,8 @@
           "content": "Этиш өткөн чактын туура формасында колдонулуп, ran away деген туруктуу сөз айкашын түзөт (мааниси: качып кетти / качып кетти)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6714,7 +6829,8 @@
           "content": "Туура жооп: a sandwich. Кардар нанга roast beef, сыр, помидор, салат жалбырагы, пияз жана кычы (mustard) кошууну сурап жатат. Бул белгилер сэндвичке мүнөздүү.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6772,7 +6888,8 @@
           "content": "Racing жана riding көбүнчө ат менен байланыштуу. Адамдар жарышта жана минүү үчүн ушул жаныбарды колдонушат. Ошондуктан туура жооп: horse.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6830,7 +6947,8 @@
           "content": "Бул белгилүү англис макалы: “as brave as a lion”. Ал өтө кайраттуу адамды сүрөттөө үчүн колдонулат. Ошондуктан туура жооп: lion.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -6884,7 +7002,8 @@
           "content": "Туура жооп: am waiting. Сүйлөмдө азыр болуп жаткан аракет айтылып жатат. Мындай учурда present continuous колдонулат: am waiting. Мааниси: “Мен поездди күтүп жатам.”\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -6942,7 +7061,8 @@
           "content": "Туура жооп: I and III only. I сүйлөмдө кызыл бут кийим жашыл бут кийимге караганда бир аз кымбатыраак экени айтылган. III сүйлөмдө жашыл бут кийим кызыл бут кийимге караганда бир аз арзаныраак экени айтылган. Экөөнүн мааниси бирдей. II сүйлөмдө “a lot cheaper” деп айтылып, айырма чоң экенин билдирет, ал эми IV сүйлөмдө кызыл бут кийим арзаныраак деп айтылган, бул маанини өзгөртөт.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7020,7 +7140,8 @@
           "content": "Текстке ылайык, кардар эмне жей турганын тандап бүттү (шорпо алам деп чечти). Диалогдун логикасы боюнча кийинки кадам — официантка заказ берүүгө даяр экенин билдирүү. Ошондуктан “We’re ready to order” туура жооп болуп саналат."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7082,7 +7203,8 @@
           "content": "Жоопто так өткөн убакыт айтылган: “three hours ago”. Ошондуктан суроо Past Simple менен берилет: did you do. Туура вариант: did you do.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -7140,7 +7262,8 @@
           "content": "Туура жооп: Not much. I’m not crazy about the colors. Бул жооп сүрөт жөнүндө пикир билдирет жана адамга түстөрү жакпай жатканын көрсөтөт, ошондуктан диалогго туура келет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7198,7 +7321,8 @@
           "content": "Туура жооп: get dressed. Сүйлөмдө эртең мененки күн тартиби айтылып жатат: ойгонуу, эртең мененки тамак ичүү, кофе ичүү, сумкасын жыйноо. Андан кийин 30 мүнөт эмне кылууга кетери айтылат. Мындай контекстте туурасы get dressed — кийинип алуу.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7256,7 +7380,8 @@
           "content": "Бул сүйлөмдө себеп көрсөтүлүп жатат: алар пландарын өзгөртүштү, анткени кырдаал күтүүсүз болуп калды.\n“because” — “анткени” дегенди билдирет жана аракеттин себебин түшүндүрөт.\n\nЭмне үчүн башка варианттар туура эмес:\n\nhowever — “бирок”, карама-каршы маанини берет, бул жерде туура келбейт\nalthough — “карабастан”, карама-каршы мааниде колдонулат\nor — “же”, тандоо/альтернатива билдирет"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7314,7 +7439,8 @@
           "content": "Туура жооп: the. Сүйлөмдө “only word” деп айтылып, бир гана өзгөчө нерсе жөнүндө сөз болуп жатат. Мындай учурда англис тилинде definite article “the” колдонулат. Ошондуктан туура вариант the.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -7380,7 +7506,8 @@
           "content": "Модальный глагол must подходит во всех трёх предложениях, потому что он выражает обязательство или правило (follow the safety rules; stop when the traffic light is red), а также логическое предположение (It must belong to Nurlan). Поэтому правильный ответ — В) must.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7434,7 +7561,8 @@
           "content": "Туура жооп: I and III only. I сүйлөмдө Азат азыр футбол ойноп жатканын айткан (“was playing”). III сүйлөмдө Марат эртең мененден бери футбол ойноп жатканын айткан (“had been playing”). II сүйлөмдө оюн бүтүп калган, ал эми IV сүйлөмдө келечекте ойной турганы айтылган.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -7488,7 +7616,8 @@
           "content": "Туура жооп: The speakers will most probably go to the movie. Диалогдо алар футболго баруудан баш тартып, кинотеатрга барууну сунуш кылышат жана бул идеяга макул болушат. Ошондуктан алар кино көрүүгө барышат.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7542,7 +7671,8 @@
           "content": "Туура жооп: Boris. Батир чоң жана ыңгайлуу жана Борис аны сатып алууга мүмкүнчүлүгү бар. Виктор чоң батирлерди жактырбайт, Саша бийик имараттардан коркот, ал эми Хелен жеке үйлөрдү артык көрөт. Ошондуктан батирди эң ыктымал Борис сатып алат.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7596,7 +7726,8 @@
           "content": "\nТуура  жооп — Б. Спорт менен машыгуу жана туура тамактануу керек дегенди билдирет, Берилген сүйлөмдүн маанисине эң жакын\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7650,7 +7781,8 @@
           "content": "A / an белгисиз артикли эсептелүүчү зат атоочтор менен жекелик санда колдонулат."
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -7708,7 +7840,8 @@
           "content": "Жарнамада “The best hairdresser in town. Make an appointment today” деп жазылган. Бул чач тарач кызматын сунуштайт. Демек жарнама адамдарды чачын жасатууга чакырат. Ошондуктан туура жооп: hair styled.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7770,7 +7903,8 @@
           "content": "Сүйлөмдө тортту духовкада бышыруу жөнүндө айтылат. Духовкада тамак бышыруу үчүн bake этиши колдонулат. Ошондуктан туура сөз: bake.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -7828,7 +7962,8 @@
           "content": "Adventurous деген сөз жаңы нерселерди жасап көрүүгө жана тобокелчилик алууга даяр адамды билдирет. Ошондуктан мындай адам adventurous деп мүнөздөлөт.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -7882,7 +8017,8 @@
           "content": "Sour сөзү «кычкыл» (кислый) дегенди билдирет — бул лимондун даамын сүрөттөгөн мүнөздөмө."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7940,7 +8076,8 @@
           "content": "Сүйлөмдүн мааниси: адамдын сөзүнө же жылмайуусуна эмес, анын кылган ишине ишенүү керек. Бул мааниге эң жакын макал: Actions speak louder than words, башкача айтканда иштер сөздөрдөн маанилүүрөөк.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -8002,7 +8139,8 @@
           "content": "Бир аракет өткөндө болуп жаткан башка аракеттен улам жасалган. Ошондуктан негизги аракет Past Simple: tried. Ошол учурда болуп жаткан аракет Past Continuous: was sleeping. Туура вариант: tried, was sleeping.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8060,7 +8198,8 @@
           "content": "Туура жооп: a self-made woman-politician. Текст негизинен Элла Грассонун жашоосу жана карьерасы жөнүндө айтат — ал өзү аракет кылып саясатта ийгиликке жеткен аял болгон. Ошондуктан тексттин негизги темасы өз күчү менен ийгиликке жеткен аял саясатчы жөнүндө.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8118,7 +8257,8 @@
           "content": "Англис тилинде on предлогу так даталарды жана жуманын күндөрүн көрсөтүү үчүн колдонулат."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8176,7 +8316,8 @@
           "content": "Туура жооп: The headmaster stopped any bullying at the school. Бул сүйлөмдүн мааниси – директор мектептеги кордоону токтотту. Калган сүйлөмдөр адатта кордоону токтотуу үчүн аракет кылуу же алдын алуу маанисин берет, ал эми бул сүйлөмдө кордоо толук токтотулганы айтылат. Ошондуктан мааниси башкалардан айырмаланат.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -8234,7 +8375,8 @@
           "content": "Текстте жер силкингени, имараттар ураганы жана адамдар көчөгө чуркап чыкканы айтылган. Бул белгилер жер титирөөгө мүнөздүү. Ошондуктан туура жооп: an earthquake.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8288,7 +8430,8 @@
           "content": "Туура жооп: I and III only. “Checked” жана “examined” сөздөрү паспортторду текшерди деген маанини берет жана сүйлөмгө туура келет. “Issued” – паспорт берди дегенди билдирет, бул жерде туура эмес. “Stamped” – мөөр басуу дегенди билдирет, ал сөз “suspiciously” менен логикалык жактан туура келбейт.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8342,7 +8485,8 @@
           "content": "Persuade деген сөз бирөөнү сүйлөшүү же жүйө келтирүү аркылуу бир нерсеге көндүрүү дегенди билдирет. Ошондуктан анын маанисине эң жакын сөз айкашы: talk into.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8400,7 +8544,8 @@
           "content": "Туура жооп: B. “after she will return” туура эмес. “After” менен келген убакыт сүйлөмдөрүндө future эмес, present simple колдонулат. Туурасы: after she returns.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8458,7 +8603,8 @@
           "content": "Туура жооп: went to a skating-rink. “Went” — past simple формасы, ал өткөн убакыттагы аракетти билдирет. Сүйлөм дем алыш күндөрү болгон ишти айтып жатат, ошондуктан бул вариант келечек жөнүндө эмес, өткөн окуя жөнүндө.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8516,7 +8662,8 @@
           "content": "Бул **third conditional** сүйлөм. Формуласы:\nIf + Past Perfect → would have + V3.\n\nСүйлөмдө **would been gone** деп жазылган, бул грамматикалык жактан туура эмес. **Been** ордуна **have been** болушу керек.\n\nТуурасы: **would have gone**.\n\nОшондуктан өзгөртүлүшү керек болгон бөлүк: **B**.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8570,7 +8717,8 @@
           "content": "False деген сөз “жалган, жасалма” дегенди билдирет. Анын карама-каршы мааниси — original, башкача айтканда чыныгы.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8628,7 +8776,8 @@
           "content": "Бул учурда which сөзүн адамдарга (жандуу заттарга) карата колдонуу туура эмес."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8690,7 +8839,8 @@
           "content": "“I haven’t been…” деген сүйлөм Present Perfectтин терс формасында. Экинчи адам да ошол эле нерсени айтканда Neither have I колдонулат. Ошондуктан туура жооп: Neither have I.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8748,7 +8898,8 @@
           "content": "Туура жооп: she placed the interests of people above her own interests. Текстте Элла Грассо кадимки адамдардын кызыкчылыктарын коргогону жана өз кызыкчылыгынан жогору койгону айтылган. Ошондуктан ал жакшы губернатор болгон.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8806,7 +8957,8 @@
           "content": "(В) “building” — бул азыркы учурда болуп жаткан аракетти билдирет (“are building”), бирок сүйлөмдө жалпы факт айтылып жатат.\n\nАнглис тилинде мындай фактты билдирүү үчүн passive voice колдонулат: are built. Ошондуктан “computers building” дегенде грамматикалык туура эмес болуп калат, анткени subject (computers) өздөрү “курбайт”, аларды башка бирөө “курат/жасайт”."
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -8864,7 +9016,8 @@
           "content": "Туура жооп: is close to you only in good times but not when times are difficult. “Fair-weather friend” деген сөз айкашы адам жакшы учурларда гана дос болуп, кыйын учурда жардам бербеген адамды билдирет.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -8922,7 +9075,8 @@
           "content": "Сүйлөмдөрдө эки бала окшош экени көрсөтүлүп жатат: crazy about = fond of. Ошол сыяктуу эле interested in дегенге окшош сөз айкашы keen on. Ошондуктан туура толуктоо: is keen on movies.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8980,7 +9134,8 @@
           "content": "Туура жооп: a farmer. Сүрөттөмөдө адам эрте турат, көбүнчө сыртта иштейт, жаныбарлар менен иштейт, аба ырайын билиши керек жана трактор айдайт деп айтылган. Бул белгилер фермердин ишине туура келет.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9038,7 +9193,8 @@
           "content": "“We” ат атоочу сүйлөп жаткан адам өзү да ошол жагдайга катышканын туура көрсөтөт. Ошондуктан дал ушул форма контекстке туура келет."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9096,7 +9252,8 @@
           "content": "Текстте адам сатып алган блендерине нааразы болуп, аны кайра жиберип жатканын айтып жатат. Ал жарнамада айтылгандай иштебегенин түшүндүрөт. Мындай текст нааразычылык билдирген каттын бөлүгү. Ошондуктан туура жооп: a complaint.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9150,7 +9307,8 @@
           "content": "Туура жооп: The, __. Биринчи сүйлөмдө конкреттүү, вазада турган кара лала гүлдөрү жөнүндө айтылып жатат, ошондуктан “The black tulips” колдонулат. Экинчи сүйлөмдө жалпы лала гүлдөрү жөнүндө айтылып жатат, ошондуктан артикль колдонулбайт: tulips are always beautiful.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9208,7 +9366,8 @@
           "content": "Баш сөздө “European Union meeting ends in row” деп жазылган. Бул Европа Биримдигинин жыйыны жана саясатчылар ортосундагы талаш жөнүндө. Ошондуктан мындай кабар political news бөлүмүнө тиешелүү.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9262,7 +9421,8 @@
           "content": "Нурдин өзүнүн сезимдерин азыркы чакта билдирет. Калгандары болсо өткөн чакта айтылган."
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -9320,7 +9480,8 @@
           "content": "Сүйлөм ресторандагы кызматкерлер жөнүндө. “Head cook” — ашкананын башкы ашпозчусу, ошондуктан биринчи боштукка cook. “Washes, chops and cooks vegetables” — жашылчаларды жууп, туурап, бышырат, ошондуктан cooks. “One cook fries chicken and potatoes” — дагы бир ашпозчу. Туура вариант: cook, cooks, cook.\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9378,7 +9539,8 @@
           "content": "“Laughing-stock” деген сөз айкашы адамдар аны шылдыңдап, күлкү кылганын билдирет. Демек дүйнө жүзүндөгү адамдар аны мазактап күлүшкөн. Ошондуктан туура түшүндүрмө: mocked at him.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -9436,7 +9598,8 @@
           "content": "Human character адамдын мүнөзүн билдирет. Good-looking жана handsome болсо адамдын сырткы келбетин сүрөттөйт, мүнөзүн эмес. Ошондуктан туура жооп: good-looking, handsome.\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9494,7 +9657,8 @@
           "content": "Indirect сүйлөмдө **would be** колдонулган, анткени бул Reported Speech. Түз сүйлөмгө өзгөртүлгөн\n"
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9552,7 +9716,8 @@
           "content": "Туура жооп: he is allergic to cats. Сүйлөмдө ал мышыкка жакындаганда дароо чүчкүрө баштайт деп айтылган. Бул адатта мышыкка аллергиясы бар экенин билдирет.\n"
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -9610,7 +9775,8 @@
           "content": " Мектепте адамдар менен мамиле кыла билүүнү үйрөтүшөт. Б варианты мааниси боюнча туура жооп.\n"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9664,7 +9830,8 @@
           "content": "Бул жерде none of them дегенди кыргызча: «экөө тең эмес» же «эч бири» деп түшүнөбүз."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9722,7 +9889,8 @@
           "content": "Interactive деген сөз оюнга катышуу мүмкүнчүлүгүн билдирет. Демек оюнчу жөн гана көрбөйт, оюндагы аракеттерге катышат. Ошондуктан туура түшүндүрмө: the player is involved in the action of the game.\n"
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -9780,7 +9948,8 @@
           "content": "Сүйлөмдүн мааниси: ал токтоп, токой карга толуп жатканын көрүү үчүн. Ошондуктан “stopping here to watch his woods fill up with snow” туура болот. Экинчи жерде “must think it queer to stop” деп колдонулат. Туура вариант: to watch, to stop.\n"
         }
       ],
-      "bloom_level": "CREATE"
+      "bloom_level": "CREATE",
+      "type": 1
     },
     {
       "content": [
@@ -9834,7 +10003,8 @@
           "content": "В варианты (It should rain tomorrow) ошол эле маанини билдирбейт, анткени should милдетти, күтүүнү же божомолду билдирет, ал эми ыктымалдуулукту эмес."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     }
   ]
 }

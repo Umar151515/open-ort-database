@@ -64,7 +64,8 @@
           "content": "В списке утренних дел (завтрак, кофе, сбор сумки) не хватает именно «одеться»."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -126,7 +127,8 @@
           "content": "Ответ начинается со слова «Yes», а значит, вопрос должен быть общим (требующим ответа «да» или «нет»).\n\nВариант Б — единственный общий вопрос в списке. Он спрашивает о факте знакомства, на что логично ответить: «Да, мы живем в одном здании».\n\nВарианты А, В и Г — это специальные вопросы (начинаются с Where, Who, Why). Они требуют конкретной информации в ответ, а не простого «Да»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -184,7 +186,8 @@
           "content": "Слово tiny означает «крошечный». Его противоположность — big (большой)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -242,7 +245,8 @@
           "content": "Описание «земля начала трястись» (ground started shaking) и «здания начали рушиться» (buildings started to collapse) — это прямые признаки землетрясения (an earthquake)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -300,7 +304,8 @@
           "content": "Слово interesting (интересный) описывает что-то захватывающее. Противоположным по смыслу будет слово boring (скучный). Остальные варианты (exciting, thrilling) являются скорее синонимами."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -362,7 +367,8 @@
           "content": "Ответ говорит, что дорога занимает около двадцати минут и что человек едет на автобусе, поэтому подходят вопросы о длительности поездки и о том, занимает ли она двадцать или пятьдесят минут."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -424,7 +430,8 @@
           "content": "Г-н Карабаев «нанимает» (employs) много людей и является одним из крупнейших «работодателей» (employers) в Бишкеке."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -482,7 +489,8 @@
           "content": "В тексте говорится, что она сократила размер государственного аппарата и расходы, что показывает её убеждение, что слишком большое правительство работает хуже."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -540,7 +548,8 @@
           "content": "Конструкция should have + V3 используется для выражения критики или сожаления о том, что действие в прошлом не было совершено. Если Адил «должен был пойти» на почту утром, значит, по факту он туда не пошел — didn’t go to the post office."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -598,7 +607,8 @@
           "content": "Все советы (A, B, C) направлены на защиту планеты. Однако совет D — «throw the garbage about» (разбрасывать мусор повсюду) — противоречит логике охраны природы. Это и есть лишний вариант."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -656,7 +666,8 @@
           "content": "Идиома: «некоторые вещи случаются в жизни только однажды»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -722,7 +733,8 @@
           "content": "Сын просит отца расписаться в дневнике (report card) в темноте. Логика проста: если отец не будет видеть, что именно он подписывает, он не заметит плохие оценки. Поэтому истинная цель мальчика — «hide poor marks» (спрятать плохие оценки)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -780,7 +792,8 @@
           "content": "С конкретной датой используется on (on October 31), а перед выражением present используется at — at present."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -838,7 +851,8 @@
           "content": "В детский летний лагерь обычно ищут людей, которые смогут зажигать и развлекать детей. Поэтому в пропуске должны быть положительные качества, связанные с энергией: enthusiastic and lively (восторженные и энергичные)"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -896,7 +910,8 @@
           "content": "Апельсины не могут собирать или перевозить себя сами.\n\nИх собирают (are picked) — Present Simple Passive.\n\nИх перевозят (are transported) — Present Simple Passive.\nОба действия совершаются над предметом, поэтому выбираем вариант с are + глагол в 3-й форме."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -954,7 +969,8 @@
           "content": "Конструкция «I wish I were...» используется для несбыточных желаний. Если я говорю «Жаль, что я не на острове», значит, в реальности I am not on a small island."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1012,7 +1028,8 @@
           "content": "После many используется множественное число существительного.\n\nПравильное предложение:\nMany visitors come to Kyrgyzstan in summer."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1074,7 +1091,8 @@
           "content": "Здесь используется классическая схема: одно действие было в процессе (Past Continuous), а другое его прервало (Past Simple).\n\nWas shopping — процесс хождения по магазинам.\n\nLost — момент потери кошелька."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1132,7 +1150,8 @@
           "content": "Азат описывает место, рассказывает о местном колорите (local color) и предлагает группе заказать напитки. Такое поведение (рассказ о достопримечательностях и координация группы) характерно для tourist guide (экскурсовода)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1190,7 +1209,8 @@
           "content": "Сначала используется Present Continuous (is swimming) для действия сейчас, затем Present Simple (swims) для регулярности, swim для общего утверждения и Swimming как герундий — «плавание — это его профессия»."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1248,7 +1268,8 @@
           "content": "Человек начинает чихать, когда находится рядом с кошкой, что является типичным признаком аллергии на кошек."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1302,7 +1323,8 @@
           "content": "Сильный шторм может повредить линии электропередачи, повалить деревья на провода или нарушить работу электрических сетей. Из-за этого подача электроэнергии может прекратиться, что приводит к power cut (отключению электричества). Другие варианты (тёплая погода, слабый ветер, ясное небо) обычно не вызывают таких проблем."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1360,7 +1382,8 @@
           "content": "В тексте перечисляются пропавшие ценности: картина, ювелирные изделия и много денег. Кража ценного имущества из дома — это robbery (ограбление)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1414,7 +1437,8 @@
           "content": "Фраза “Ever since I met Asel, I haven’t been able to think about other girls” — Present Perfect → чувство продолжается до сих пор, значит он всё ещё любит её."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1476,7 +1500,8 @@
           "content": "На фразу «I haven't been...» (Я не был...) нужно ответить «Я тоже не был». В английском для согласия с отрицательным предложением используется конструкция Neither have I."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1534,7 +1559,8 @@
           "content": "Ошибка в элементе D, потому что с неисчисляемым существительным bread используется much только в вопросах и отрицаниях; здесь нужно some bread."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1588,7 +1614,8 @@
           "content": "Объяснение: в диалоге они решили пойти в кино, поэтому говорящие, скорее всего, пойдут на фильм."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -1646,7 +1673,8 @@
           "content": "Ошибка в элементе B, потому что слово pollutions должно быть в неисчисляемой форме pollution."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1700,7 +1728,8 @@
           "content": "В придаточном предложении времени после after не используется Future Simple, поэтому will return нужно заменить на returns."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1758,7 +1787,8 @@
           "content": "В английском языке работает правило «противоположностей»: если основная часть предложения отрицательная (doesn’t play), то в «хвостике» должен быть утвердительный глагол — does he."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1820,7 +1850,8 @@
           "content": "Поскольку тест прошел ужасно (terrible), логично, что Айпери ответила на вопросы неправильно."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -1882,7 +1913,8 @@
           "content": "Используется определенный артикль, так как слово «underground» — это единственное (the only) слово в английском языке с такими свойствами."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -1944,7 +1976,8 @@
           "content": "Фраза went to a skating-rink стоит в Past Simple и говорит о прошедшем событии, а остальные варианты относятся к будущему."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2002,7 +2035,8 @@
           "content": "устойчивое выражение “feel yourself at home” означает «чувствуйте себя как дома», «располагайтесь свободно». Поэтому предложение правильно звучит так:\n\nPlease, sit down and feel yourself at home, while I make some tea."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2064,7 +2098,8 @@
           "content": "Управление бизнесом — это постоянный факт: run.\n\nОбед с другом сегодня — временное действие: am having.\n\nРегулярный обед по пятницам — привычка: have.\n\nОбещание встретиться — инфинитив цели: to meet."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2122,7 +2157,8 @@
           "content": "Так как речь идёт о школе для девочек (множественное число), используется притяжательная форма girls’ school — апостроф после s."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2180,7 +2216,8 @@
           "content": "Слово drive подходит в оба пропуска: «two-hour drive» означает дорогу на машине, а «crowds drive them mad» — толпы сводят их с ума."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2238,7 +2275,8 @@
           "content": "Текст рассказывает о жизни и политической карьере Эллы Грассо, которая самостоятельно добилась высокого положения в политике."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -2308,7 +2346,8 @@
           "content": "Только Азам описывает музыку позитивно: «moving and exciting» (трогательная и захватывающая). Остальные посчитали её монотонной или непонятной."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2366,7 +2405,8 @@
           "content": "Was listening (Past Continuous) — длительный процесс (слушала радио).\n\nRang (Past Simple) — внезапное событие, прервавшее процесс (телефон зазвонил).\n\nPicked up (Past Simple) — следующее за ним действие (подняла трубку)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2424,7 +2464,8 @@
           "content": "В данном задании используются антонимы (слова с противоположным значением) для создания логических пар:\n\nSummer (лето) → hot (жаркое)\n\nWinter (зима) → cold (холодная)\n\nSugar (сахар) → sweet (сладкий)\n\nLemon (лимон) → sour (кислый)\n\nОстальные варианты не подходят для противопоставления вкусу сахара: rich (богатый/насыщенный), yellow (желтый — это цвет, а не вкус) и sharp (острый/резкий)."
         }
       ],
-      "bloom_level": "REMEMBER"
+      "bloom_level": "REMEMBER",
+      "type": 1
     },
     {
       "content": [
@@ -2482,7 +2523,8 @@
           "content": "Фраза is keen on movies синонимична is interested in films и показывает сходство интересов мальчиков."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2544,7 +2586,8 @@
           "content": "В вопросах используется anybody, а в утверждениях о полном знании — everything."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2602,7 +2645,8 @@
           "content": "На табличке написано «For all your wood-work» (Для любых изделий из дерева). Поскольку мебель (furniture) делается из дерева, вариант «furniture fixed» (отремонтированная мебель) идеально подходит по смыслу к услугам мастерской."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2660,7 +2704,8 @@
           "content": "Известная поговорка: “A cat has nine lives.”\nПоэтому: People have one life, but a cat has nine lives."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2718,7 +2763,8 @@
           "content": "В предложении есть противопоставление: «Он приходил, но, к сожалению, меня не было дома». Нам нужно наречие «к сожалению» — unfortunately."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2780,7 +2826,8 @@
           "content": "Школа учит нас «социализироваться» (взаимодействовать) с другими людьми."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2838,7 +2885,8 @@
           "content": "Глагол might выражает неуверенность и вероятность (возможно, она позвонит"
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -2900,7 +2948,8 @@
           "content": "Устойчивое выражение in close communication with nature означает «в тесной связи с природой», поэтому подходит существительное communication."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -2958,7 +3007,8 @@
           "content": "В данном тексте описывается распределение работы в ресторане.\n1. The head cook plans the meals — здесь используется слово cook как существительное, потому что оно обозначает человека (главного повара), который планирует меню.\n2. He washes, chops and cooks vegetables — здесь cooks является глаголом, так как стоит в ряду действий (washes, chops and cooks) и описывает, что делает повар.\n3. One cook fries chicken and potatoes — здесь снова используется cook как существительное, потому что речь идет о человеке (поваре), который жарит курицу и картофель.\n Поэтому правильная последовательность форм: cook, cooks, cook."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3012,7 +3062,8 @@
           "content": "Ошибка заключается в использовании относительного местоимения:\n\nWhich используется только для неодушевленных предметов или животных.\n\nWho (или that) используется для людей.\n\nТак как в предложении речь идет о женщине (the woman), нужно заменить which на who.\n\nПравильный вариант: That's the woman who works as a photographer for the local newspaper."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3070,7 +3121,8 @@
           "content": "Здесь два действия в прошлом: одно длительное (наблюдал), другое — момент осознания (понял/увидел).\n\nWas observing (наблюдал в телескоп) — процесс.\n\nRealized (осознал) — результат."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3124,7 +3176,8 @@
           "content": "Глагол «smelling» переводится как «нюхать» или «чувствовать запах». Из предложенных вариантов для этого подходит только «nose» (нос)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3186,7 +3239,8 @@
           "content": "На вопрос «Что ты думаешь об этой картине?» это самый естественный ответ, выражающий личное отношение к искусству."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3240,7 +3294,8 @@
           "content": "А) The more you study, the better you learn. \nЭтот вариант выражает логичную и правильную идею обучения: чем больше ученик учится, тем лучше он усваивает знания. Конструкция “the more…, the better…” показывает положительную зависимость между усилиями и результатом."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3298,7 +3353,8 @@
           "content": "Объяснение: конструкция neither + auxiliary verb + subject используется, чтобы сказать, что второе тоже не может делать это действие.\n\n"
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3356,7 +3412,8 @@
           "content": "Контекст «racing and riding» (скачки и верховая езда) однозначно указывает на лошадь (horse). Другие животные из списка (обезьяна, жираф, медведь) для этих целей не используются."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3414,7 +3471,8 @@
           "content": "В первом предложении используется the, потому что речь о конкретных тюльпанах в вазе, а во втором артикль не нужен, так как говорится о тюльпанах в целом."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3484,7 +3542,8 @@
           "content": "Правильный ответ: В) I, II и III only, потому что все три предложения передают одну и ту же идею: они пропустили автобус, поэтому возникла проблема с опозданием. Первое предложение прямо говорит, что они опоздали из-за пропущенного автобуса. Второе выражает ту же ситуацию через условное предложение. Третье показывает сожаление о том, что они не успели на автобус. Предложение IV имеет противоположное значение, так как говорит, что они пришли рано."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3542,7 +3601,8 @@
           "content": "Правильно: its traditions, does yours? — используется притяжательное its для семьи и местоимение yours, чтобы не повторять слово family."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3608,7 +3668,8 @@
           "content": "Do you want — вопрос в Present Simple о желаниях.\n\nDon’t understand — глагол understand не используется в Continuous, поэтому выбираем простую отрицательную форму.\n\nAre — правильная форма глагола to be для местоимения you."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3666,7 +3727,8 @@
           "content": "Здесь мы описываем попытку в прошлом, которая происходила на фоне другого длительного процесса:\n\nTried (Past Simple) — факт попытки соблюдать тишину.\n\nWas sleeping (Past Continuous) — длительное состояние ребенка (он спал в это время)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3724,7 +3786,8 @@
           "content": "Слово worried (обеспокоенная) предполагает наличие проблемы. Покупка платья, хорошие новости или победа сына — это поводы для радости. А вот то, что дочь не пришла домой после полуночи (daughter hasn’t come home yet), — реальная причина для тревоги."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3782,7 +3845,8 @@
           "content": "Для животных (если они не являются очеловеченными персонажами сказок) используется притяжательное местоимение its (её/его — неодушевленное). It's — это сокращение от it is, что сюда не подходит."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -3840,7 +3904,8 @@
           "content": "В новом предложении нужен подлежащий, поэтому используется We: «We were offered twenty kinds of cheese to taste»."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -3898,7 +3963,8 @@
           "content": "Слово launch означает «начать» или «запустить» кампанию, поэтому наиболее близкий по смыслу вариант — to start."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -3956,7 +4022,8 @@
           "content": "Описывается инструмент с четырьмя струнами, который держат под подбородком и играют смычком — это скрипка."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -4018,7 +4085,8 @@
           "content": "Конструкция such a + прилагательное + существительное используется для усиления, поэтому правильно: such a long delay."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4084,7 +4152,8 @@
           "content": "Эти слова лучше всего подходят для комплимента офисному сотруднику."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4142,7 +4211,8 @@
           "content": "В тексте говорится, что она защищала интересы обычных людей и даже сокращала государственные расходы, ставя интересы людей выше своих."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4204,7 +4274,8 @@
           "content": " используется Present Continuous, потому что действие происходит сейчас, в данный момент."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4262,7 +4333,8 @@
           "content": "Говорят learn to speak (учиться говорить) и say two words (сказать два слова), поэтому правильная комбинация — speak, say."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4324,7 +4396,8 @@
           "content": "Торты в духовке (oven) именно «пекут» (to bake)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4382,7 +4455,8 @@
           "content": "Слово when подходит по смыслу, потому что хлорофилл перестаёт вырабатываться когда света недостаточно для фотосинтеза."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -4452,7 +4526,8 @@
           "content": "Сын играет на гитаре, когда у него есть время — это привычное действие, поэтому используется Present Simple (plays).\n\nСестра играет на пианино сейчас (наверху) — это действие в данный момент, поэтому используется Present Continuous (is playing)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -4514,7 +4589,8 @@
           "content": "Если вещь не подошла и у тебя есть чек, ты возвращаешь её обратно в магазин. Правильный фразовый глагол — send it back (в значении «вернуть/отправить обратно»)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4568,7 +4644,8 @@
           "content": "Интерактивность в видеоиграх подразумевает, что процесс не односторонний (как просмотр кино), а требует участия. Это значит, что «игрок вовлечен в действие игры» (player is involved in the action of the game)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4626,7 +4703,8 @@
           "content": "Логично: сначала произошла chase (погоня), затем его остановила traffic police, после чего его escorted (сопроводили) с автомагистрали."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4684,7 +4762,8 @@
           "content": "Выражение “afraid of his shadow” означает, что человек очень пугливый, то есть легко пугается."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4742,7 +4821,8 @@
           "content": "Дэн говорит, что когда у него будет время, он починит машину Гарри, тогда как остальные друзья говорят о прошлом или гипотетической ситуации и не предлагают реальную помощь."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4800,7 +4880,8 @@
           "content": "В этом задании используются омофоны — слова, которые звучат одинаково, но пишутся по-разному и имеют разное значение.\n\nTied (привязали) — это форма глагола to tie (привязывать) в прошедшем времени (Past Simple). По смыслу: «Мы привязали лодку к причалу».\n\nTide (прилив) — существительное, обозначающее периодический подъем уровня воды в океане или море. По смыслу: «...чтобы она не уплыла, когда начнется прилив»."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4862,7 +4943,8 @@
           "content": "Вопрос «How often?» требует в ответе указания частоты действия. Вариант once a week (раз в неделю) — единственный грамматически верный ответ на такой вопрос."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -4920,7 +5002,8 @@
           "content": "Текст содержит типичную лексику метеорологов: mainly dry (преимущественно сухо), rain in the north (дождь на севере), strong winds (сильные ветры). Это классический weather forecast."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -4978,7 +5061,8 @@
           "content": "Используется Past Perfect, так как действие (закончили есть) произошло раньше приезда Нурлана."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5036,7 +5120,8 @@
           "content": "Слово nation’s в данном предложении относится к Соединённым Штатам, так как речь идёт о городе Нью-Йорк. Поэтому словосочетание the nation’s leading financial and commercial centre означает ведущий финансовый и торговый центр страны (США). Ближайшим по значению вариантом является American, поскольку Нью-Йорк является частью Америки (США)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5098,7 +5183,8 @@
           "content": "Present Continuous используется для выражения твердого намерения или договоренности на ближайшую неделю."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5156,7 +5242,8 @@
           "content": "Для описания того, что вы делали в детстве, но не делаете сейчас, используется конструкция used to + глагол: «used to swim», «used to skate»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5214,7 +5301,8 @@
           "content": "В тексте Элла Грассо описывается как трудолюбивая, скромная и выдающаяся, защищающая интересы людей, поэтому эгоизм (selfishness) ей не соответствует."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5272,7 +5360,8 @@
           "content": "В первом пропуске используем множественное число для общего сравнения видов транспорта: Motorcycles are more convenient than buses.\n\nВо втором — единственное число, так как речь о конкретном случае ожидания на остановке: wait for a bus.\n\nВ третьем — наличие одного транспортного средства у человека: have a motorcycle."
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -5330,7 +5419,8 @@
           "content": "Here — «здесь» (наречие места).\n\nHear — «слышать» (глагол восприятия).\nВерно: «If you sit here... you can hear the wind» (Если ты посидишь здесь... ты сможешь услышать ветер)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5388,7 +5478,8 @@
           "content": "С \"since\" используется Present Perfect (has lived) для действия, начавшегося в прошлом и продолжающегося до сих пор, а состояние в прошлом выражается Past Simple (was)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5446,7 +5537,8 @@
           "content": "Слово laughing-stock означает «посмешище». Если человек стал международным посмешищем из-за глупой ошибки в слове, это значит, что люди во всем мире над ним смеялись. Глагол mocked at him (насмехались над ним) точно передает этот смысл."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5504,7 +5596,8 @@
           "content": "Фраза «spent the next three years running a movie theater» означает, что они управляли кинотеатром в течение трёх лет."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5562,7 +5655,8 @@
           "content": "Клиент заказывает говядину и сыр на ржаном хлебе с овощами и горчицей, что является типичным составом сэндвича."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -5624,7 +5718,8 @@
           "content": "Указан законченный период времени в прошлом (с 2010 по 2015 год), поэтому используется Past Simple — worked."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5682,7 +5777,8 @@
           "content": "Фраза needn’t означает «не обязательно», что вежливо показывает, что Дженни не должна отправлять телеграмму завтра и может сделать это позже."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5740,7 +5836,8 @@
           "content": "Конструкция Let's... (Давайте...) — это классический способ внести предложение или побудить к совместному действию."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5798,7 +5895,8 @@
           "content": "Тот, кто делает комплименты, шутит и постоянно общается со всеми, — это sociable (общительный) человек."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5856,7 +5954,8 @@
           "content": "Это условное предложение первого типа: в придаточном используется Present Simple (read), а в главном — Future Simple (will learn)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -5914,7 +6013,8 @@
           "content": "Это предложение третьего типа (Third Conditional) о прошлом. После would в такой конструкции должно идти have + 3-я форма глагола. Ошибка в части B: вместо «would been gone» должно быть would have gone."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -5972,7 +6072,8 @@
           "content": "Встречи Европейского Союза относятся к политике."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6030,7 +6131,8 @@
           "content": "это проблема overfishing (чрезмерного вылова рыбы) или экологии."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6092,7 +6194,8 @@
           "content": "Спикер перечисляет только минусы: еда ужасная, в отеле шумно, пляжи переполнены. Такие негативные впечатления описываются словом «disappointment» (разочарование)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6150,7 +6253,8 @@
           "content": "Объяснение: because используется для выражения причины — девочки были счастливы, потому что понимали, как будут скучать по школе."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6212,7 +6316,8 @@
           "content": "Используется Past Perfect Continuous (had been waiting) для длительного ожидания до события, затем Past Simple (finally arrived) и didn't know для реакции в тот момент."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6270,7 +6375,8 @@
           "content": "Это косвенная речь: want to send → would be sent, поэтому используется форма would be sent."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6328,7 +6434,8 @@
           "content": "Центр предлагает спортивный досуг (аэробика, плавание, каток), поэтому курсы информатики там вряд ли проводятся (unlikely to provide)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6386,7 +6493,8 @@
           "content": "Звонок был в конкретный момент в прошлом (в час), поэтому используется Past Continuous — was having lunch, чтобы показать действие, происходившее в тот момент."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6448,7 +6556,8 @@
           "content": "Фраза Neither will we используется, чтобы сказать, что «мы тоже не будем», то есть согласиться с тем, что они не будут играть в гольф."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6506,7 +6615,8 @@
           "content": "Смысл предложения в том, что форма помогает отличать «своих» от «чужих». В военном контексте антонимом к слову friends (друзья/свои) будет слово enemies (враги)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -6568,7 +6678,8 @@
           "content": "В сослагательном наклонении (второй тип условий) для совета используется конструкция If I were you."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6630,7 +6741,8 @@
           "content": "При переводе из косвенной речи (would be) обратно в прямую, время меняется на будущее (will)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6688,7 +6800,8 @@
           "content": "В объявлении говорится, что, собрав жетоны, можно поехать на однодневную поездку в Hollywood всего за $10."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6742,7 +6855,8 @@
           "content": "Варианты A, Б и В описывают внутренние качества (вежливость, надежность, доброту).\n\nВариант Г (good-looking, handsome) описывает только внешнюю привлекательность, что не является чертой характера."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6812,7 +6926,8 @@
           "content": "В тексте сказано, что Жакып уже построил дом и переезжает в этом месяце (Jakyp has already built the house... moving there this month), значит, его дом готов."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6870,7 +6985,8 @@
           "content": "Модальный глагол must используется для логического вывода: если человек долго работал на жаре, он должно быть испытывает жажду."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -6932,7 +7048,8 @@
           "content": "Текст, в котором выражается недовольство товаром и требование его возврата, является жалобой (complaint)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -6990,7 +7107,8 @@
           "content": "Используется Past Simple (invited) для действия в прошлом и Past Perfect (had seen), чтобы показать, что фильм был посмотрен раньше этого приглашения."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7048,7 +7166,8 @@
           "content": "Фраза «Я бы не стал... на твоем месте» — это вежливая форма предостережения. Поэтому смысл предложения передает глагол warned (предупредил): «He warned me not to turn the computer on»."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7106,7 +7225,8 @@
           "content": "Слово funnier (смешнее) используется, когда мы сравниваем только два объекта (например: «Его шутка смешнее моей»)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7164,7 +7284,8 @@
           "content": "Это «надежный только в хорошую погоду» друг, который бросает в трудную минуту."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7238,7 +7359,8 @@
           "content": "Предложения I и III выражают одну и ту же идею: красные туфли немного дороже, то есть зелёные немного дешевле."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7296,7 +7418,8 @@
           "content": "a sofa — существительное в единственном числе, упоминается впервые. Ставим артикль a.\n\ntwo chairs — перед словом стоит числительное (two). В английском языке числительные исключают использование неопределенного артикля. Артикль не нужен.\n\na wall unit — снова единственное число, предмет один из многих подобных. Ставим артикль a."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7358,7 +7481,8 @@
           "content": "В описании говорится о работе с животными, работе на улице, необходимости знать погоду и умении водить трактор, что характерно для профессии фермера."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7424,7 +7548,8 @@
           "content": "В списке нужно выбрать предметы, которые могут быть мягкими на ощупь или по свойствам.\n\nPillow (подушка), sofa (диван) и chair (кресло/стул с обивкой) — это мягкие предметы.\n\nВ английском также существует понятие soft drink (безалкогольный напиток), что делает этот вариант логически верным набором."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7482,7 +7607,8 @@
           "content": "Слова danger, emergency, fire exit, first aid, no trespassing используются на предупреждающих табличках и связаны с безопасностью."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7540,7 +7666,8 @@
           "content": "Никита придет «позже» (later), чем его одноклассники."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7610,7 +7737,8 @@
           "content": "Zarylkan переехала туда два года назад (и, следовательно, живет там).\n\nSalma живет в Оше уже два года (has been living).\nОстальные либо только собираются уехать, либо вообще об этом не думали."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -7668,7 +7796,8 @@
           "content": "В тексте описаны дым, лава и разрушения, что характерно для извержения вулкана."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7726,7 +7855,8 @@
           "content": "Мальчик говорит: «отдам тебе обоих (both of them)». Слово both используется только для двух предметов. Значит, цыплят ровно два, что соответствует варианту «more than one but less than three» (больше одного, но меньше трех)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7784,7 +7914,8 @@
           "content": "В этом предложении описывается последовательность действий в прошлом (одно действие произошло сразу за другим).\n\nОднородные члены: Глаголы jumped (прыгнула) и ran (убежала) относятся к одному подлежащему (the horse) и соединены союзом and.\n\nСогласование времен: Поскольку первое действие стоит в Past Simple (jumped), второе действие также должно быть в Past Simple (ran), чтобы показать цепочку событий."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7842,7 +7973,8 @@
           "content": "В исходном предложении говорится, что и Нурлан, и Адыл работают в офисе, поэтому эквивалентное по смыслу предложение — «Both Nurlan and Adyl work in an office»."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -7904,7 +8036,8 @@
           "content": "Чтобы не повторять слово «building», мы заменяем его на местоимение the one («тот самый, что на углу»)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -7962,7 +8095,8 @@
           "content": "Слово none означает «ни один из них», что соответствует ситуации, когда ни синий, ни серый свитер не подошли."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8028,7 +8162,8 @@
           "content": "так как фраза out of style означает «вышедший из моды»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8106,7 +8241,8 @@
           "content": "После обсуждения меню логичным следующим шагом клиента будет фраза «Мы готовы сделать заказ»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8168,7 +8304,8 @@
           "content": "Фраза were kept waiting используется в страдательном залоге и означает, что их заставили ждать в офисе в течение часа."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8226,7 +8363,8 @@
           "content": "В английском языке название страны и название национальности/языка часто различаются.\n\nGermany — это название страны (Германия).\n\nGerman — это национальность (немец) или прилагательное (немецкий).\nПоэтому верно: «Kurt is from Germany, so he is German»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8300,7 +8438,8 @@
           "content": "Офицер может «проверить» (checked) или «изучить» (examined) документы."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8362,7 +8501,8 @@
           "content": "Вопрос «Did you take part...» (Принимали ли вы участие...) требует подтверждения или отрицания факта участия. Вариант «Yes, I participated in it» (Да, я в ней участвовал) является единственным прямым и грамматически верным ответом."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8420,7 +8560,8 @@
           "content": "Фраза is being built используется в Present Continuous Passive, чтобы показать, что центр переработки строится прямо сейчас."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8478,7 +8619,8 @@
           "content": "Фраза «Не верь улыбке, верь действиям» означает, что поступки человека важнее и правдивее его слов или внешнего вида. Английский эквивалент этой мысли — пословица Actions speak louder than words."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8536,7 +8678,8 @@
           "content": "Борис отвечает «three years ago», что указывает на конкретное время в прошлом, поэтому используется Past Simple — did you go."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8594,7 +8737,8 @@
           "content": "Правильный ответ — fair, потому что это слово подходит к обоим предложениям. В первом предложении fair weather означает хорошую, ясную погоду. Во втором предложении fair teachers означает справедливых и честных учителей, которые одинаково относятся ко всем ученикам. Поэтому слово fair логично и грамматически правильно используется в обоих случаях."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8652,7 +8796,8 @@
           "content": "Описание действий персонажей — pushed (толкнул), punched (ударил кулаком) — прямо указывает на физический конфликт. Самое точное слово для этого — fight (драка)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8710,7 +8855,8 @@
           "content": "Используются стандартные конструкции: prefer … to, better than, и would rather … than, поэтому правильная последовательность — to – than – than."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -8780,7 +8926,8 @@
           "content": "Maxim is playing (Present Continuous) — играет сейчас.\n\nArafat has been playing (Present Perfect Continuous) — играет с 10 утра и продолжает в момент речи.\nОстальные либо только собираются, либо просто любят шахматы в целом."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -8838,7 +8985,8 @@
           "content": "Новость о том, что мобильные телефоны становятся все меньше и меньше, относится к разделу science and technology (наука и технологии)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -8896,7 +9044,8 @@
           "content": "Борис может позволить себе эту квартиру, тогда как Виктор не любит большие квартиры, Саша боится небоскрёбов, а Хелен предпочитает частные дома."
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -8954,7 +9103,8 @@
           "content": "On the thirty first (с конкретными датами).\n\nOf August (месяц в родительном падеже).\n\nIn the Kyrgyz Republic (в стране)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9012,7 +9162,8 @@
           "content": "I и III описывают действие, которое происходило или продолжалось в тот момент, тогда как II говорит о завершённом действии, а IV — о будущем."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9066,7 +9217,8 @@
           "content": "Человек, который готов рисковать (take risks) и пробовать что-то новое (try new things), характеризуется как adventurous (авантюрный, смелый, любящий приключения)."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9120,7 +9272,8 @@
           "content": "Фраза «Look!» (Смотри!) всегда указывает на то, что действие происходит прямо сейчас. Для этого используется Present Continuous: «The wind is blowing away the kite»."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9182,7 +9335,8 @@
           "content": "Джек говорит: «Он (босс) ничего об этом не знает». Это означает, что даже при наличии разногласий Джек их не озвучивает. Ответ: «has his own opinion but never speaks it out loudly» (имеет свое мнение, но никогда не высказывает его вслух)."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9240,7 +9394,8 @@
           "content": "Исходное предложение советует правильно питаться и заниматься спортом, поэтому ближе всего по смыслу вариант о здоровой пище и физической активности."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9302,7 +9457,8 @@
           "content": "После предлога when и в качестве подлежащего/дополнения часто используются формы с -ing."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9360,7 +9516,8 @@
           "content": "Фраза should rain выражает ожидание или вероятность, а не простую возможность, поэтому она не совпадает по значению с «possibly»."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9418,7 +9575,8 @@
           "content": "В объявлении упоминается «лучший парикмахер в городе» (best hairdresser). Логично, что в такое место приходят, чтобы сделать прическу — hair styled."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9476,7 +9634,8 @@
           "content": "Так как мы рассказываем историю о событии в прошлом, все глаголы должны стоять в Past Simple:\n\nSwam (проплыл), drank (выпил), felt (чувствовал), could (мог)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9534,7 +9693,8 @@
           "content": "Грамматически верно: get a bit more money (получать чуть больше) и not much more than (не намного больше, чем раньше)."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9592,7 +9752,8 @@
           "content": "Грибы можно посчитать.\n\nA few — немного, но достаточно.\n\nFew — мало (негативный оттенок).\nВ контексте находки обычно говорят a few."
         }
       ],
-      "bloom_level": "EVALUATE"
+      "bloom_level": "EVALUATE",
+      "type": 1
     },
     {
       "content": [
@@ -9662,7 +9823,8 @@
           "content": "Когда в ответе указано конкретное время в прошлом (three hours ago), в вопросе обязательно должен использоваться Past Simple. Правильная форма — did you do."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9728,7 +9890,8 @@
           "content": "Модальный глагол must подходит во всех трёх предложениях, потому что он выражает обязательство или правило (follow the safety rules; stop when the traffic light is red), а также логическое предположение (It must belong to Nurlan). Поэтому правильный ответ — В) must."
         }
       ],
-      "bloom_level": "APPLY"
+      "bloom_level": "APPLY",
+      "type": 1
     },
     {
       "content": [
@@ -9786,7 +9949,8 @@
           "content": "В предложении говорится, что человек не хочет жить с узкомыслящим человеком, поэтому логично, что партнёр должен быть жизнерадостным и широких взглядов."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     },
     {
       "content": [
@@ -9840,7 +10004,8 @@
           "content": "В трёх предложениях говорится о намерении или плане прекратить буллинг, а во втором утверждается, что он уже был остановлен, поэтому смысл отличается."
         }
       ],
-      "bloom_level": "ANALYZE"
+      "bloom_level": "ANALYZE",
+      "type": 1
     },
     {
       "content": [
@@ -9898,7 +10063,8 @@
           "content": "Действия по расписанию (поезд, урок, программа) всегда описываются в Present Simple. Так как program — это «оно» (3-е лицо ед. ч.), добавляем окончание -s: starts."
         }
       ],
-      "bloom_level": "UNDERSTAND"
+      "bloom_level": "UNDERSTAND",
+      "type": 1
     }
   ]
 }
